@@ -6,7 +6,7 @@
 //
 
 #import "ViewController.h"
-
+#import <CoinTools/CoinTools.h>
 @interface ViewController ()
 
 @end

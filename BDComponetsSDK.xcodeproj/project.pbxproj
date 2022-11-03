@@ -15,7 +15,23 @@
 		771699442913B6D80024DC9E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 771699432913B6D80024DC9E /* Assets.xcassets */; };
 		771699472913B6D80024DC9E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 771699452913B6D80024DC9E /* LaunchScreen.storyboard */; };
 		7716994A2913B6D80024DC9E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 771699492913B6D80024DC9E /* main.m */; };
+		771699532913BBC30024DC9E /* CoinTools.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 771699512913BB8B0024DC9E /* CoinTools.xcframework */; };
+		771699542913BBC30024DC9E /* CoinTools.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 771699512913BB8B0024DC9E /* CoinTools.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		771699552913BBC30024DC9E /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				771699542913BBC30024DC9E /* CoinTools.xcframework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		38EFABEA29EBE250CA31E1CF /* Pods-BDComponetsSDK.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BDComponetsSDK.debug.xcconfig"; path = "Target Support Files/Pods-BDComponetsSDK/Pods-BDComponetsSDK.debug.xcconfig"; sourceTree = "<group>"; };
@@ -31,6 +47,7 @@
 		771699462913B6D80024DC9E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		771699482913B6D80024DC9E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		771699492913B6D80024DC9E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		771699512913BB8B0024DC9E /* CoinTools.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = CoinTools.xcframework; sourceTree = "<group>"; };
 		BDAA4F3215C462CDF2C3B92A /* Pods_BDComponetsSDK.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BDComponetsSDK.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E86AAA37CF45CCA488C04803 /* Pods-BDComponetsSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BDComponetsSDK.release.xcconfig"; path = "Target Support Files/Pods-BDComponetsSDK/Pods-BDComponetsSDK.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -40,6 +57,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				771699532913BBC30024DC9E /* CoinTools.xcframework in Frameworks */,
 				2F9A532A8A4AD3EB7C0B1D8C /* Pods_BDComponetsSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -50,6 +68,7 @@
 		7716992B2913B6D50024DC9E = {
 			isa = PBXGroup;
 			children = (
+				771699502913BB8B0024DC9E /* BDComponets */,
 				771699362913B6D50024DC9E /* BDComponetsSDK */,
 				771699352913B6D50024DC9E /* Products */,
 				CA0CBEF499F602D0ED35550D /* Pods */,
@@ -83,13 +102,20 @@
 			path = BDComponetsSDK;
 			sourceTree = "<group>";
 		};
+		771699502913BB8B0024DC9E /* BDComponets */ = {
+			isa = PBXGroup;
+			children = (
+				771699512913BB8B0024DC9E /* CoinTools.xcframework */,
+			);
+			path = BDComponets;
+			sourceTree = "<group>";
+		};
 		CA0CBEF499F602D0ED35550D /* Pods */ = {
 			isa = PBXGroup;
 			children = (
 				38EFABEA29EBE250CA31E1CF /* Pods-BDComponetsSDK.debug.xcconfig */,
 				E86AAA37CF45CCA488C04803 /* Pods-BDComponetsSDK.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -113,6 +139,7 @@
 				771699312913B6D50024DC9E /* Frameworks */,
 				771699322913B6D50024DC9E /* Resources */,
 				29480C56759E59499813ED3F /* [CP] Embed Pods Frameworks */,
+				771699552913BBC30024DC9E /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -360,6 +387,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -387,6 +415,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
