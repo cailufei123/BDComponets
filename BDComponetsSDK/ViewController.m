@@ -15,7 +15,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    GateHomePageController  * rt = [[GateHomePageController alloc] init];
+          [self.navigationController pushViewController:rt animated:YES];
 }
 
 

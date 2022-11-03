@@ -36,15 +36,15 @@ Pod::Spec.new do |s|
      s.vendored_frameworks = 'BDComponets/CoinTools.xcframework'
  
 
- s.dependency 'Charts'
-  s.dependency 'AFNetworking'
-  s.dependency 'Masonry'
-  s.dependency 'YYKit'
-  s.dependency 'UITableView+FDTemplateLayoutCell'
-  s.dependency 'MJRefresh'
-  s.dependency 'JXCategoryView'
+ s.dependency 'Charts','~> 3.6.0'
+  s.dependency 'Alamofire'
+  s.dependency 'MJRefresh','~> 3.7.5'
   s.dependency 'SYProgressView'
-  s.dependency 'FMDB'
+  s.dependency 'SwiftTheme'
+  s.dependency 'SnapKit'
+  s.dependency 'SDWebImage','~> 5.12.5'
+  s.dependency 'Starscream'
+  s.dependency 'lottie-ios','~> 2.5.3'
 end
 
 
