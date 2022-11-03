@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.author             = { "cailufei" => "cailufei123@163.com" }
 
   #依赖于ios平台上的8.0
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "10.0"
 
   #库的地址
   s.source       = { :git => "https://github.com/cailufei123/BDComponets.git", :tag => s.version }
