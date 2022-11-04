@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
   #库的描述
   s.description  = <<-DESC
-  BDComponets
+  BDComponets - 大数据SDK
                            DESC
   #库的远程仓库地址
   s.homepage     = "https://github.com/cailufei123"
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   #库的地址
   s.source       = { :git => "https://github.com/cailufei123/BDComponets.git", :tag => s.version }
 
-
+s.swift_versions = ['5.0']
 
       s.source_files = 'BDComponets/**/*.{h,m}'
 
