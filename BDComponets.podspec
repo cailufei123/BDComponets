@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   #库的作者
   s.author = { "cailufei" => "cailufei123@163.com" }
 
-  #依赖于ios平台上的8.0
+  #依赖于ios平台上的11.0
   s.platform = :ios, "11.0"
 
   #库的地址
@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
   #s.source_files = 'BDComponets/**/*'
 
   s.vendored_frameworks = 'BDComponets/CoinTools.xcframework'
-  s.dependency 'Charts','~> 3.6.0'
+  s.dependency 'Charts','3.6.0'
   s.dependency 'Alamofire'
   s.dependency 'MJRefresh','~> 3.7.5'
   s.dependency 'SYProgressView'
