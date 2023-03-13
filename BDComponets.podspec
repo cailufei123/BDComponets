@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
   #s.source_files = 'BDComponets/**/*'
 
   s.vendored_frameworks = 'BDComponets/CoinTools.xcframework'
-  s.dependency 'Charts','4.1.0''
+  s.dependency 'Charts','~> 4.1.0'
   s.dependency 'Alamofire'
   s.dependency 'MJRefresh','~> 3.7.5'
   s.dependency 'SYProgressView'
