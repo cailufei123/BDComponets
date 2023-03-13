@@ -33,7 +33,7 @@ typedef NS_ENUM(NSInteger, GTFormatterYType) {
 @import Charts;
 NS_ASSUME_NONNULL_BEGIN
 
-@interface GTYxisFearIndexValueFormatter : NSObject<IChartAxisValueFormatter>
+@interface GTYxisFearIndexValueFormatter : NSObject<ChartAxisValueFormatter>
 +(instancetype)getGTYxisFearIndexValueFormatter;
 
 @property (nonatomic, strong)NSArray * publicArry;

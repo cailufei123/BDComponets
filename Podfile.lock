@@ -1,8 +1,9 @@
 PODS:
   - Alamofire (5.6.2)
-  - Charts (3.6.0):
-    - Charts/Core (= 3.6.0)
-  - Charts/Core (3.6.0)
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
   - lottie-ios (2.5.3)
   - MJRefresh (3.7.5)
   - SDWebImage (5.12.6):
@@ -10,12 +11,13 @@ PODS:
   - SDWebImage/Core (5.12.6)
   - SnapKit (5.6.0)
   - Starscream (4.0.4)
+  - SwiftAlgorithms (1.0.0)
   - SwiftTheme (0.6.4)
   - SYProgressView (1.1.3)
 
 DEPENDENCIES:
   - Alamofire
-  - Charts (~> 3.6.0)
+  - Charts (~> 4.1.0)
   - lottie-ios (~> 2.5.3)
   - MJRefresh (~> 3.7.5)
   - SDWebImage (~> 5.12.5)
@@ -33,20 +35,22 @@ SPEC REPOS:
     - SDWebImage
     - SnapKit
     - Starscream
+    - SwiftAlgorithms
     - SwiftTheme
     - SYProgressView
 
 SPEC CHECKSUMS:
   Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
-  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  Charts: 354f86803d11d9c35de280587fef50d1af063978
   lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
   MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
   SDWebImage: a47aea9e3d8816015db4e523daff50cfd294499d
   SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
   Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
   SwiftTheme: 007cbaf1f9e171caf6448a4657533e54c682b285
   SYProgressView: db4ddd548579f75be8ab213559722f791ebbd9f0
 
-PODFILE CHECKSUM: ee6e12b895cf06b767d0f856485adc682697f941
+PODFILE CHECKSUM: 579b4624ed1759bc175f4a6b025f850936f4f266
 
 COCOAPODS: 1.11.3

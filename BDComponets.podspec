@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
 
   #tag方式：填tag名称
   #commit方式：填commit的id
-  s.version = "1.0.2"
+  s.version = "1.0.3"
 
   #库的简介
   s.summary = "BDComponetsSDK"
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.author = { "cailufei" => "cailufei123@163.com" }
 
   #依赖于ios平台上的11.0
-  s.platform = :ios, "11.0"
+  s.platform = :ios, "12.0"
 
   #库的地址
   s.source = { :git => "https://github.com/cailufei123/BDComponets.git", :tag => s.version }
@@ -34,7 +34,7 @@ Pod::Spec.new do |s|
   #s.source_files = 'BDComponets/**/*'
 
   s.vendored_frameworks = 'BDComponets/CoinTools.xcframework'
-  s.dependency 'Charts','3.5.0'
+  s.dependency 'Charts','4.1.0''
   s.dependency 'Alamofire'
   s.dependency 'MJRefresh','~> 3.7.5'
   s.dependency 'SYProgressView'

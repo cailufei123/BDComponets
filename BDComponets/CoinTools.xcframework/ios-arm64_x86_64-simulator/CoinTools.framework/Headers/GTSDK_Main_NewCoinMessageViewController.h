@@ -11,9 +11,9 @@
 NS_ASSUME_NONNULL_BEGIN
 
 @interface GTSDK_Main_NewCoinMessageViewController : GateBaseViewController
-+(GTSDK_Main_NewCoinMessageViewController *)gtsdk_GTSDK_Main_CoinMessageVc;
++ (GTSDK_Main_NewCoinMessageViewController *)gtsdk_GTSDK_Main_CoinMessageVc;
 ///  币种的链接
-@property(nonatomic,copy)NSString* coinUrl;
+@property (nonatomic, copy) NSString *coinUrl;
 @end
 
 NS_ASSUME_NONNULL_END

@@ -10,15 +10,15 @@
 		</data>
 		<key>GT100ScreenTableViewCell.nib</key>
 		<data>
-		lBWj+kR8Bve6jhYli9oIeHV67Lc=
+		/PuBa30EDGX65OdA/M20LoqX7ec=
 		</data>
 		<key>GTAleratSelectCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		XXE+E67HJvk50x6VCZhUquROsGE=
+		877hW4YcSFNp7dB6E6EtJZ3nTMM=
 		</data>
 		<key>GTAleratSelectCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		kwph6+gaHmPHnaVkV5curt+2RBY=
+		gPZ/D7ex3RvLHTaZvVOTyoBPsLw=
 		</data>
 		<key>GTAnalyseCollectionReusableView.nib</key>
 		<data>
@@ -26,47 +26,47 @@
 		</data>
 		<key>GTBTCFooterProgressViewCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		MORsQQOdx+LpRu44npz7Y9L68LU=
+		YfRRrGeFWkydk/0u+me/yIQXIoM=
 		</data>
 		<key>GTBTCFooterProgressViewCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		CUTofgRqRQ/ERHi9P9TlFM9EGWY=
+		dYqw7t1EXuoXkVtEHYI7RXZNvOg=
 		</data>
 		<key>GTBTCFooterViewCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		+WOVkGI/bfo4WyQIXt5xpU/HJDU=
+		IAUrj7/KYr8xKAH0Tj4RNuGDdKQ=
 		</data>
 		<key>GTBTCFooterViewCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		Cxek0XMBNgP+I1BwsboibHLeEIc=
+		8QFkZZ4qxQwpbinF0YqBYkwEtdY=
 		</data>
 		<key>GTBigOrderContentTableViewCell.nib</key>
 		<data>
-		H1srNtKxd/vOy+VLgVh9CSQ0454=
+		qF7We+7/kpkZCBx5dnGLi0pVN/4=
 		</data>
 		<key>GTBigOrderTopTableViewCell.nib</key>
 		<data>
-		S+MJ0jNUhOfr6/WUzpne9VFgocc=
+		MUT2SxkeVtjxBqZJcXVguknfLsc=
 		</data>
 		<key>GTBigPendingOrderAleartCell.nib</key>
 		<data>
-		tZnWIO0GdJFad91EHVlEutBquXc=
+		pz/FwHVJMFluBVmsHpdfIF4Hc/o=
 		</data>
 		<key>GTBigPendingOrderChartTableViewCell.nib</key>
 		<data>
-		qEzQ2tav/g8tdBhyAZnrNpsN9/Q=
+		FVOcv+Fry7Q0ue6YZrZhhIp6N44=
 		</data>
 		<key>GTC2CListTableViewCell.nib</key>
 		<data>
-		a1/Y9oi+Cp4xL5qqMnrUszK+3do=
+		M+q2oe4yIA0aS7qkhinTIrhqcl0=
 		</data>
 		<key>GTChartItemCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		+bOLQMG9Ueq3/c+yCcyxE4i/prg=
+		yvdfsbt0OM/oyUyjl4Zot0jth5o=
 		</data>
 		<key>GTChartItemCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		2kkQe7rQcLIvJ5OD0qeVTOQRRLQ=
+		c6x6J1qAT7ybLmVLm7Q46ygYrdY=
 		</data>
 		<key>GTChartPMarkerView.nib</key>
 		<data>
@@ -74,155 +74,183 @@
 		</data>
 		<key>GTChartPMarkerViewTableViewCell.nib</key>
 		<data>
-		HEoFrhDqlblIJicIhf4AgvDswhs=
+		yNpI09zOdoTQs8fVGeI9sEr+bwI=
 		</data>
 		<key>GTCionIntroductionListTableViewCell.nib</key>
 		<data>
-		Ys0kzsvqzGrhm5CTowgkrugjHVY=
+		aBmw7fs/zXvdOmcJfG80CbXh6Fc=
 		</data>
 		<key>GTCionIntroductionTableViewCell.nib</key>
 		<data>
-		7GxqHvKUZLJUAtCxBdD65cL4Mjc=
+		4iKTQJeBzT3c0+gINBWK/kmj6VM=
 		</data>
 		<key>GTClassifyCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		MYMqSgqJPvQqi2EXZiFS6UeTMUc=
+		RVtafkiF21dNnrP3mE+g3ezgDaU=
 		</data>
 		<key>GTClassifyCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		MjdwOLJSXSyR6GpkXzEd8mtMmU0=
+		aXMGUAhnOSVi6xK7ycLh40yaLuE=
+		</data>
+		<key>GTCoinCompareHeader.nib</key>
+		<data>
+		AJDpsdhViAiBenZTOG+ho9xDm+k=
+		</data>
+		<key>GTCoinHotMenuHeader.nib</key>
+		<data>
+		OgbRXIrebIXYQJsH/sE7yDbiCxs=
 		</data>
 		<key>GTCoinMessageCell.nib</key>
 		<data>
-		xgYa7sGKcXJm+VGNOHB/6tR376w=
+		bhDF5xBDjStLCuY8pRkparoWMfE=
 		</data>
 		<key>GTCoinMessageTableViewCell.nib</key>
 		<data>
-		LtLr83BnO/doXxsKjV6/tTOamUA=
+		dPn6A/HLt7HyfvxBoe6GbJpMaKA=
 		</data>
 		<key>GTCoinMessagesCell.nib</key>
 		<data>
-		kq03Sws1R846FXNzXwKwX7w9Aoo=
+		IJq23oX3jTzOKPWfR1rPcCSKu7I=
+		</data>
+		<key>GTCoinsCompareHotCell.nib</key>
+		<data>
+		yfrUaei0zgO/9Qk/1kEheCMyqKI=
+		</data>
+		<key>GTCoinsHotCell.nib</key>
+		<data>
+		n7ZGP6C8Fn0n+ToWZJIKAuZYa/8=
+		</data>
+		<key>GTCoinsHotHeader.nib</key>
+		<data>
+		8Ylcs2u9ZZDJ5DW646X2a8waWo0=
+		</data>
+		<key>GTCoinsQuantifyCell.nib</key>
+		<data>
+		O4VCY+jQ4fHchPWl8U15efuhEe0=
+		</data>
+		<key>GTCoinsSelectedCell.nib</key>
+		<data>
+		OPODqZeW6WH0MlfV/pOcB+UKpBw=
 		</data>
 		<key>GTDataMonitoringTItleTableViewCell.nib</key>
 		<data>
-		C+4HvCkNbqfGTY1xHYmf8zZMuog=
+		+3nyTcWZY0QFRHk9JtBW5kPzNkU=
 		</data>
 		<key>GTDataMonitoringTableViewCell.nib</key>
 		<data>
-		+3OR3HRsm3JvQgeyd3U1cXuahgw=
+		u/A9ygA28fF69G5JoCJdyKXXzTU=
 		</data>
 		<key>GTDepositCBSubCell.nib</key>
 		<data>
-		HnFvDmD96VXj1xX5BRQOGiaViN4=
+		Pf3Uqt/0N0UfXBdTod6wh4KCQ8Q=
 		</data>
 		<key>GTDepositPauseCBSubCell.nib</key>
 		<data>
-		mIPLq1UGMZOf80Bp0NCdeMrCl8Q=
+		9LxIgOzJRvIhrCw/7TiYueFoZVE=
 		</data>
 		<key>GTDepositPauseTBSubCell.nib</key>
 		<data>
-		So9sMgcYh110kETSBhHQthInBCM=
+		SJNw/2jtBd8E2u0UHfDWqYk1raE=
 		</data>
 		<key>GTDepositTBSubCell.nib</key>
 		<data>
-		yk0Fegvbvxu0Uhry5+YmzjJkHJw=
+		D7PNNCFkDoX0XFc/Y4WK5bVCwrU=
 		</data>
 		<key>GTDevelopmentHistoryTableViewCell.nib</key>
 		<data>
-		2jujaGSLMbHLgvvbHr3ft8QQ4Bk=
+		JxC2Yyn7idQGzd4rWR4swrnN5xY=
 		</data>
 		<key>GTDuoKongLineChartsTableViewCell.nib</key>
 		<data>
-		PlyGxjeqsaZ9NvrdVsYonubo93E=
+		QkHmtB+VLTJXRsmg9sZPx7nQ0iU=
 		</data>
 		<key>GTEarthPlateContentTableViewCell.nib</key>
 		<data>
-		uoAlA4sN0dKkzDeS49E64RVWsjU=
+		cVdnWk1/13zQ4AfRa6Sfwy3UKPo=
 		</data>
 		<key>GTEarthPlateTableViewCell.nib</key>
 		<data>
-		2A6C19crN3uKmhnVlMh1o2wxUdE=
+		wRFuBfD8guJf7Kd1/K2kN6n+HHs=
 		</data>
 		<key>GTEmotionSlideCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		S3Fcqu55RFcSOGKF+puJ2zQX8hg=
+		LYEVBU4hMmYK09qPv3frZEXoTgc=
 		</data>
 		<key>GTEmotionSlideCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		lCVzig86E9DkM05kWPqdgr/J7Y4=
+		vnylmgzmtk7dYhckp2xn8cL9gcU=
 		</data>
 		<key>GTEmotionSlideTableViewCell.nib</key>
 		<data>
-		VpUsSbFjqDm6PHDCRs8Jb0i4bYQ=
+		VP4qqxU7EfbPDVaZ19zuC2HdcHQ=
 		</data>
 		<key>GTEmotionTimeCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		j9FtKVreA86ILESvfMRXzwhJMAU=
+		841P2N5vHa5WjSIhrlLp31NaqYE=
 		</data>
 		<key>GTEmotionTimeCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		OUASWxYqDQfgdu6uWtOc9vv1VdI=
+		vbXCitb8Gsx6FWKhBXJwe547Wfs=
 		</data>
 		<key>GTExchangeCollectionCell.nib/objects-12.3+.nib</key>
 		<data>
-		KxfI1C9K2ObT6VFJKyOQUVoJXQw=
+		vwErNiZdQNYXsII/WPoDVz8EKlo=
 		</data>
 		<key>GTExchangeCollectionCell.nib/runtime.nib</key>
 		<data>
-		aAhH6tuLHKnY7+uqGrt3I2xJKok=
+		jS9DBpVYH0Dxnevt709lm7tbwHo=
 		</data>
 		<key>GTExchangeContractCollectionCell.nib/objects-12.3+.nib</key>
 		<data>
-		s5d5D4UFGFsOxe3dNc6/ATquuvM=
+		1x7ChXTITM/bKQvRK6wyG6qm9hs=
 		</data>
 		<key>GTExchangeContractCollectionCell.nib/runtime.nib</key>
 		<data>
-		FJ804VslYgWEqfr7bK+zTappD7Q=
+		lkvAF15I6sFJttcA3eNkXy62O7Q=
 		</data>
 		<key>GTFearIndexIndicatorTableViewCell.nib</key>
 		<data>
-		aKgc7ab42tJ3Vb+HKau2ux2FIGU=
+		qwTotKG4ltj3mJLbwrnNKMOXQ4c=
 		</data>
 		<key>GTFearIndexLineChartsTableViewCell.nib</key>
 		<data>
-		SFdUSVJIw8//n33CvVA7PwVPfXE=
+		Q7zqxz8UG0tpH/iiqpylmJIsOzw=
 		</data>
 		<key>GTGTDuoKongSelectTimeTopViewCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		/sZUiEE6T+FEv/ebk2BgzJglsDE=
+		Vgvzbjsx9BEf/TzRAkn+5d/g5Zg=
 		</data>
 		<key>GTGTDuoKongSelectTimeTopViewCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		3UIxUOuMSk3cnNzVyZwacWw1zmw=
+		yRBy+78/KK19pWkSvmG1DNTTQjE=
 		</data>
 		<key>GTGrayscaleTableViewHeaderFooterView.nib</key>
 		<data>
-		21mAwdC1cpgqdh7geF+pF0kO/WY=
+		ADnaPoQPViJFKcwIjsLyq2ZxUAw=
 		</data>
 		<key>GTHeYueMessageCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		KF/I15RZoObp7Bv9f+uhB+L1Awg=
+		5rRAomfFq1CtCYDbhPou8AvGJYw=
 		</data>
 		<key>GTHeYueMessageCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		sbZ/EfM93CLG+OHeYws573PWt/E=
+		ai/ZoxX1n9d9mXqbK3+5HBuc5FI=
 		</data>
 		<key>GTHistoryListCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		oOgYkr/FHJo6awvkwlExXo8neOk=
+		3Y6WDkKumbQ71klDWkpgvJxYOn0=
 		</data>
 		<key>GTHistoryListCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		Mh29DYqTp+Gifx3QpatwkriTGTs=
+		2JVez9CXPdhQVqLDguArxZtByV8=
 		</data>
 		<key>GTHistoryTableViewCell.nib</key>
 		<data>
-		qkBV/kxycweghSOr/4wzPhJyEDk=
+		hxajl5/OgDMwFmt4jiZL7YyGbPI=
 		</data>
 		<key>GTHoldChartsStatisticsTableViewCell.nib</key>
 		<data>
-		qdnaAHZOUNJI53a1QoDj85YspUM=
+		aiZC6rpJL2i3+lflxo3aYuOCdi4=
 		</data>
 		<key>GTHoldCoinHeardView.nib</key>
 		<data>
@@ -230,291 +258,291 @@
 		</data>
 		<key>GTHoldCoinListTableViewCell.nib</key>
 		<data>
-		9pN5P03rNgh1he9EtIGppMn5ycE=
+		laGNp2ZYg52x+8kL9mgfNErPg1M=
 		</data>
 		<key>GTHoldCoinPieChartViewTableViewCell.nib</key>
 		<data>
-		NbqHQEqckR3qk6LAv4UooN01oIU=
+		o2VW32y+WkpBTR0/vnAYMcLPm6g=
 		</data>
 		<key>GTHoldTransListTableViewCell.nib</key>
 		<data>
-		hvQdWf+k8rkaVDVLKeKWky6AnC0=
+		4geYgnAbS8kfqfMA+ezp5PrUKo8=
 		</data>
 		<key>GTHomeBoxBigOrderCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		O6DDunzeEICRhwwzb4G07tC+gpY=
+		ts9k9RR/vZYaBAk7RBubWpYZmIg=
 		</data>
 		<key>GTHomeBoxBigOrderCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		MHEEjhsKDUpzyE9fQ4Q+XBDXBXc=
+		sd2h8eDz1nQ1TLtViimS1pbV9XE=
 		</data>
 		<key>GTLinkMessageTableViewCell.nib</key>
 		<data>
-		Vew2zwze0uO7cf0Wa/ci9inCA3g=
+		xIf4X7ZCUcaTCy446UqmFqWd71Q=
 		</data>
 		<key>GTLockCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		Ust4uB+PntrlER38IV3hiXeVu1w=
+		FC+sils8AdpxBCItIBwVcdQymXo=
 		</data>
 		<key>GTLockCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		WA+Hw4lib5KWDzKz4ZE8lDsIRJM=
+		bzQOb8KMxR0Z7USwtmHd6kS3/9I=
 		</data>
 		<key>GTMainCoinQuotationListTableViewCell.nib</key>
 		<data>
-		uxj2mVsygWhLmfbiyT4ceuAFkgc=
+		rqYHgR4nILnEVgL+9mJlgqQqsjk=
 		</data>
 		<key>GTMessageTableViewCell.nib</key>
 		<data>
-		/xlIvze6Fx4MnnjXSOME3fkoSko=
+		FQk06NMhHmVzBlBuoN8ApDEM00o=
 		</data>
 		<key>GTMiningCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		+Og+3J+MqJOp/821P+HIXZNYkqc=
+		Xlrs3iW20BVW0fNi2Q+4x/nTDYg=
 		</data>
 		<key>GTMiningCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		HyPsEaaNvlI+YYeYkI82vmpLhvs=
+		pw19RYEBl4cSx/ZpwgDeRpsj3ro=
 		</data>
 		<key>GTMiningTableViewCell.nib</key>
 		<data>
-		3JoqpJ2xuPfo3jSO71dzZ8vuQ0E=
+		SntYdKZFuDXZKZ6tfluHxEPjhw8=
 		</data>
 		<key>GTNewItmeListTableViewCell.nib</key>
 		<data>
-		+vVeHj3vOm33gCPwGLXlEjaT7gw=
+		3m2fd3XGbwYJU2O/am8MLnPS5gw=
 		</data>
 		<key>GTNewMainCoinQuotationListTableViewCell.nib</key>
 		<data>
-		Pj8FjqD9yBozEdqnP84YwZbpiGk=
+		w5+c2qfECj+sbzBS+umDbVAPdGY=
 		</data>
 		<key>GTNewRightCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		yIpbhBWzf3QVn5G0XclJGg5+qx8=
+		I10vWINFGhJiyxhMSyPHBtW7NJA=
 		</data>
 		<key>GTNewRightCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		HkuBWr+MOdyX/lbKOB1QnYC9/DQ=
+		Pydd5SzbRw0TXIVJHdIQbKmz+Sg=
 		</data>
 		<key>GTNewTopCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		jFNbL3+MBqsyv3Iu0qG/OkltuCs=
+		165bAHtvyAEtLhCElIHM5V9FIEA=
 		</data>
 		<key>GTNewTopCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		JKGt+W3aP/Ku8nUjiggQHQyidYY=
+		btVV43wi8q8jex1FYp9ZUmeHcrE=
 		</data>
 		<key>GTNewTopDuiBiCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		a3Ypxv6WqQ40i95AEj/NgMonZMc=
+		7fSkO+IaUR/p2qaRZoZvAi5SSZI=
 		</data>
 		<key>GTNewTopDuiBiCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		nbdk3oAN9SNYJLpL+4fK3nwLIQo=
+		fIPU+w9fTYVnPU1U9aNkOsjvNOw=
 		</data>
 		<key>GTNewZHFearIndexCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		18LhDdN3jJtQpYVO1GmmDF88zdA=
+		/A+Lpam3Y6eBjo0uXHJBCbvbnRI=
 		</data>
 		<key>GTNewZHFearIndexCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		vyW12X3aUSSjj1xbpvVZEd7LOBk=
+		g/sJ51AN3qCE8dC4QgH5eF58xkQ=
 		</data>
 		<key>GTPairCionTableViewCell.nib</key>
 		<data>
-		ZJ3yn5mEsamuEPODJ0O7HRmGUqQ=
+		glffnlSIzbOJ90UWvzQBOgvuXfw=
 		</data>
 		<key>GTPieChartTableViewCell.nib</key>
 		<data>
-		7gukzN3e8EsPvpiUq3U8bQ2wlhw=
+		wA1izwn+UKTssUybmH0MjwSn0hw=
 		</data>
 		<key>GTPublishMessageTableViewCell.nib</key>
 		<data>
-		RxNJyxJFdWNzrVa+Vmt0cHM8NZQ=
+		90VqOor3OhqwaQFNsMG9bAKcnDg=
 		</data>
 		<key>GTRUClassifyCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		TW1SFKvpU7s/N/fmF1GN+I97+6A=
+		v/l+KGjzRgP4zOVnIjIAywtby+0=
 		</data>
 		<key>GTRUClassifyCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		WzO6jkeZhtgiQYaqD6gveGFGH78=
+		GX970u8eOtDujLsd6qFlFEJQgg8=
 		</data>
 		<key>GTRUNewZHFearIndexCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		GxlYh0xtQVn2bXYItpKWx88x+pk=
+		ApNHmzT10ejF7Ww32XvCE8iLbFU=
 		</data>
 		<key>GTRUNewZHFearIndexCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		QUKgDOqTe13KhFVi5Ck/O2udMsw=
+		je/z2/KrcLK/cpN6ZiSLaZJjV5Q=
 		</data>
 		<key>GTRangeDataTitleTableViewCell.nib</key>
 		<data>
-		B/qKTwNybgZ3sGIRcTbat7v63JI=
+		6nG53LbOCZXVlI6L3Z+2fOaKeF4=
 		</data>
 		<key>GTRankCell.nib</key>
 		<data>
-		0icNLQykWpabai7/hdeXb3ywvrU=
+		AyKvxQT+U9lDAbzFaRXGq4t/HfE=
 		</data>
 		<key>GTRateChartTableViewCell.nib</key>
 		<data>
-		NJ+J7tcL8pak38sk9ueY056fkfI=
+		LlvE6qb2sbwY9KonM51g4q0vikc=
 		</data>
 		<key>GTRatePicCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		pMBQ+4wGNyzoWyb1aCMEbnAvj9s=
+		Y4yID3Mj8AUAJTnLsynQPPftFpE=
 		</data>
 		<key>GTRatePicCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		dEuQoNTt2mxt72FxKSGOGytQz+4=
+		DWCr5GbZtaGgjTdHx/weCvZDGN8=
 		</data>
 		<key>GTRightChartItemCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		/6h+AqGJdaoqtu3NOHQ6/W69rV8=
+		3027851UxAByMd0vzY08ZzMJvOw=
 		</data>
 		<key>GTRightChartItemCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		44Kk0WWXUz55yXMcUWCd9xYu6YE=
+		rawvHI3HGoSEb9JKeUThr4P1MdE=
 		</data>
 		<key>GTRightCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		2pxIwD9AwA90EBQALoq2Tufd6fU=
+		q4RRgjt7fHMvGHjfmUwDb+oQjkI=
 		</data>
 		<key>GTRightCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		7BdJKMnmyQjMJZBYnknTm7r29Q0=
+		FgiEflhfbqnjXxG0e9gM4x1F/94=
 		</data>
 		<key>GTSDKEmptyTableViewCell.nib</key>
 		<data>
-		tCm+4d0D6VzxVhHfPM5S5xucYqE=
+		QfjzOzU3u31Fx5bFFRYEVrc9MgM=
 		</data>
 		<key>GTSDK_Main_BigFiguretranListTableViewCell.nib</key>
 		<data>
-		MzTCtTsI7zulZNLksF0zCJs9+fs=
+		e9avGaBDrWcnecdWsHZIC6x+bfI=
 		</data>
 		<key>GTTopTotalTableViewCell.nib</key>
 		<data>
-		bKgddp27HwDz9j94T7V8edaJrV0=
+		JI+iIhAQDRM+tYTOWSVdayyHYv0=
 		</data>
 		<key>GTTransactionPairTableViewCell.nib</key>
 		<data>
-		EIRs3GKlwe9n/HI7wgRYhTyxjw0=
+		Mc7bY4sqAstHGINm0iRshIvmt1Q=
 		</data>
 		<key>GTTransectionRoseMoreTableViewCell.nib</key>
 		<data>
-		eIedB9P6klCJBGELylCgTYb2eHk=
+		zluzRqOB/HWqdkYzU8ttpoS95WU=
 		</data>
 		<key>GTTransectionRoseTableViewCell.nib</key>
 		<data>
-		ZZGZ6RIWyqgrhEjKVZWeHu+QPq4=
+		K6rmm/4V7oBpEgoQM/wmv8XIvqA=
 		</data>
 		<key>GTUpDownListCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		c7FKig4tnbNl9vbKq5Ot374o/GU=
+		33gmGZXnCGbpULOcXk5/FkW6U6g=
 		</data>
 		<key>GTUpDownListCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		ytRRNcubKrdD16+pTU5RmFflRdw=
+		goBt5WmBcJmdpSixLWhzkoFbWuI=
 		</data>
 		<key>GTV3FearTableCell.nib</key>
 		<data>
-		Hg8Z+DxypQSxNGNxfTO5nS9AONM=
+		dV/GdTTU2UC8BwFOBVffk8sxX1A=
 		</data>
 		<key>GTV3HomeBoxBigOrderCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		TDizoDzTxRhtA/srBOAQ8iOLWfU=
+		LjhiTSyE/QlkbmuDVxWvEaXxVO0=
 		</data>
 		<key>GTV3HomeBoxBigOrderCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		RWpJvnPubMXprqUZG7uF2LOB64c=
+		I3FM8bbpK8DlYUusTQMxoZTgQvg=
 		</data>
 		<key>GTZHFearIndexIndicatorTableViewCell.nib</key>
 		<data>
-		CKGK0EcmAGkHs3GPyTHSCZtrQbA=
+		j0X11hywAVNfUhvbrg63CV+57Fo=
 		</data>
 		<key>GTrateSelectPlatformNameTableViewCell.nib</key>
 		<data>
-		auESDxrTUICWl3t5IhcidQ2P2T0=
+		Dh6l3hluwi//IrAA+u2CV2mLQi8=
 		</data>
 		<key>GTrateSelectPlatformViewTableViewCell.nib</key>
 		<data>
-		YJa+ihL5/psAmQYPxxrZgai8tBU=
+		/Zm+BA021Ym1SJlyzvapv569HKA=
 		</data>
 		<key>GateBigOrderDistributionDealCell.nib</key>
 		<data>
-		5y6+mZ48hTy2Urj6EFl7k7k9/EY=
+		TlpiaKUD1JlKvzEnkq3SoWrIXds=
 		</data>
 		<key>GateBurstHouseTableViewCell.nib</key>
 		<data>
-		+Yx+oKYO98h3LsYAFIabreX2Ww4=
+		mI4xKxNlo6E8apii0eXDhm8T09s=
 		</data>
 		<key>GateBurstListTableViewCell.nib</key>
 		<data>
-		xQVuhYeN+qFMjhH9hoKf8ni03Kw=
+		o3DoW7D3lsW+MyMQvx4xmkjyjTA=
 		</data>
 		<key>GateCoinBurstStatisticsSubCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		WodeX6wC44/rbENnq3Fg+1S1vS4=
+		6u3zpfeDhEXJKrXK6cYb10lx9ms=
 		</data>
 		<key>GateCoinBurstStatisticsSubCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		WQIYz3b5cRTch6M8SHnOMj5XXhU=
+		CND9gM33AQ0eCC3L7dPQTLKJwQA=
 		</data>
 		<key>GateData1TableViewCell.nib</key>
 		<data>
-		Pu43XwQ4coQHEcIN3zYKt7rz2MU=
+		LfSXJUAroq/oEGezMd1woYULN9w=
 		</data>
 		<key>GateData2TableViewCell.nib</key>
 		<data>
-		y9GKdN5DE1CD9zf9xaktQzln9u8=
+		oET9Tal5MKR1C2VCBHUyCvW0p1A=
 		</data>
 		<key>GateDeliveryPositionAmountCell.nib</key>
 		<data>
-		e4N95QRkSUmLF6UDdcEvDesTm00=
+		i0wmAB64iHJLSJw4y7HGwDz/Puo=
 		</data>
 		<key>GateFearIndexTableViewCell.nib</key>
 		<data>
-		qKORLBFik1++JZ7quIEMHLXVDa0=
+		dNmtu0RJkJYjx/EYXNEfUQN8xwQ=
 		</data>
 		<key>GateHoldCoinTopMessageCell.nib</key>
 		<data>
-		C0PL5CcIQtR6d4XwEG6dL29mXo0=
+		HzruD83tlZKCxy2k7ZHhc1E3dEA=
 		</data>
 		<key>GateHomePageTopEnterViewCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		lP332r+PkFjm2/7rbt1ssQxz81s=
+		qBtU0nYuNIShqUL1ujukEX7jNVo=
 		</data>
 		<key>GateHomePageTopEnterViewCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		7oXTnfeXMtPtUsTl0CN87Yt81mc=
+		815zmMCrI3hGl3ZYBgIrjP3Pxyc=
 		</data>
 		<key>GateHoursCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		NA/jX9xxxDFbWbxCknSvnOKkaI8=
+		ygXyE/PAegkyLxNVAbraSoWqIcg=
 		</data>
 		<key>GateHoursCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		RsEGHwIrRtFEaiS3QdT18AvbAfE=
+		XqzCY1VtnnxL9eIoDUegvBLPpZc=
 		</data>
 		<key>GateHoursTableViewCell.nib</key>
 		<data>
-		0z4TDlf8P979W1HyFFm05SD1vAk=
+		PiIljKPbwEJ49SG5B0SNPT9jTUo=
 		</data>
 		<key>GateHousBurstStatisticsTableViewCell.nib</key>
 		<data>
-		BVOnQUq1P8pKjDbb290rVIi0UJ8=
+		wnF+49UuklpR1nN2aPNfsjcIwBA=
 		</data>
 		<key>GateLineChartTableViewCell.nib</key>
 		<data>
-		AYjgWdeEDbsnI4LLZLdx/YO2/Bs=
+		n4+ekY4HYchOaCHMB30oabeFN9Q=
 		</data>
 		<key>GateMarketValueCell.nib</key>
 		<data>
-		RZ1Zw6r2LsPE+Mi7gC3gGo3PapM=
+		z9DtN/4NGhaxzKdw5RXQKl7Lqh4=
 		</data>
 		<key>GatePrgessTableViewCell.nib</key>
 		<data>
-		mVTK/KY5CI8gfcDoLkDnzN3XTPw=
+		xNqOdlbBKGrluRoctpjeOEOfdQw=
 		</data>
 		<key>GateScources.bundle/AnalyseData/YCAnalyseDataCornerBGImg@2x.png</key>
 		<data>
@@ -1382,6 +1410,142 @@
 		<data>
 		nL+wme7TH/rGBhb+9h8AdjnPpF8=
 		</data>
+		<key>GateScources.bundle/hw_compare_add@2x.png</key>
+		<data>
+		GfagEwSYzAMde77tpSMOX7ZGP1k=
+		</data>
+		<key>GateScources.bundle/hw_compare_add@3x.png</key>
+		<data>
+		QGQzf+BPd+TQYq8roSAjbYjrR/s=
+		</data>
+		<key>GateScources.bundle/hw_compare_checkbox_false@2x.png</key>
+		<data>
+		rwhp5oZ7NT1k6iNzucrIX41PUYw=
+		</data>
+		<key>GateScources.bundle/hw_compare_checkbox_false@3x.png</key>
+		<data>
+		yx7zZ/udD5HumshQAuPcHpGN/qc=
+		</data>
+		<key>GateScources.bundle/hw_compare_checkbox_true@2x.png</key>
+		<data>
+		dDl1IfaLzrL0xmBW9QV3+2amjAE=
+		</data>
+		<key>GateScources.bundle/hw_compare_checkbox_true@3x.png</key>
+		<data>
+		mbj1R0nrFc3jI9VDbETb+63A/UU=
+		</data>
+		<key>GateScources.bundle/hw_compare_close@2x.png</key>
+		<data>
+		b/1aylcunVhjwsZQtR5OHgyg0MQ=
+		</data>
+		<key>GateScources.bundle/hw_compare_close@3x.png</key>
+		<data>
+		ve1eUBrZdgtpHOm0R+RZs87gxOc=
+		</data>
+		<key>GateScources.bundle/hw_compare_down@2x.png</key>
+		<data>
+		WGtzCjbgIK+GGefb4h+IA0gT+kc=
+		</data>
+		<key>GateScources.bundle/hw_compare_down@3x.png</key>
+		<data>
+		CDoKnyTYof3rrkhvch5qMFJBxf0=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot20@2x.png</key>
+		<data>
+		qjzqhY2J2iuBNeLGSoEWcOIPmiw=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot20@3x.png</key>
+		<data>
+		uto6ytZxdqntkcsf5MfapGV3Q08=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot30d@2x.png</key>
+		<data>
+		PwdzabH6vE52KnJKNt//b1HrCww=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot30d@3x.png</key>
+		<data>
+		9lT5CMOYvD0vCpfmyHxb0rSRK28=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot30down@2x.png</key>
+		<data>
+		IYrRzl9yK5UR9YURj7D+mqRY1rw=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot30down@3x.png</key>
+		<data>
+		rZRAIJuIs52LnRUhDTelBOs72m0=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot50@2x.png</key>
+		<data>
+		RFlp9960wxT7KJxIRWQtpwtA1ZI=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot50@3x.png</key>
+		<data>
+		bwUQVVLKdughk537oGE0dhR5aUY=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot@2x.png</key>
+		<data>
+		wTrBeGawI5bFDoivd9NeP766xuE=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot@3x.png</key>
+		<data>
+		ouWgxOG/Ug7l3a1NtFsGFlMupb4=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot_explain@2x.png</key>
+		<data>
+		uQWJUDiiM4ier3I7EKpqJtr3FDo=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot_explain@3x.png</key>
+		<data>
+		pzRlAkczROq0sb3GS8AYfS/FAN0=
+		</data>
+		<key>GateScources.bundle/hw_compare_more@2x.png</key>
+		<data>
+		pFnc0iE5oCKxMBEoDcQvvDNmS2o=
+		</data>
+		<key>GateScources.bundle/hw_compare_more@3x.png</key>
+		<data>
+		Sow5X3d1aTtLHKeQnT24Ao0ve8g=
+		</data>
+		<key>GateScources.bundle/hw_compare_pk@2x.png</key>
+		<data>
+		EMJS4cA8YCrs/hl1kf5qpCLkSK0=
+		</data>
+		<key>GateScources.bundle/hw_compare_pk@3x.png</key>
+		<data>
+		jRKqAVB3vR4hK65i7cVr7ynTZN4=
+		</data>
+		<key>GateScources.bundle/hw_compare_rotate@2x.png</key>
+		<data>
+		B8EIPAweRnJ4zuRYSBwPPrWdGXA=
+		</data>
+		<key>GateScources.bundle/hw_compare_rotate@3x.png</key>
+		<data>
+		Qakr57pGcCXrbcYJ9+0asWa9/fE=
+		</data>
+		<key>GateScources.bundle/hw_compare_top_nor@2x.png</key>
+		<data>
+		195OesaSW5XyWRnVMYddpf66R/U=
+		</data>
+		<key>GateScources.bundle/hw_compare_top_nor@3x.png</key>
+		<data>
+		ZH+5pFRr8CxYbcOE5kIzW4ZJzHQ=
+		</data>
+		<key>GateScources.bundle/hw_compare_top_sel@2x.png</key>
+		<data>
+		XokHxlDCJHdXkfbkEyWNHun9eZ0=
+		</data>
+		<key>GateScources.bundle/hw_compare_top_sel@3x.png</key>
+		<data>
+		MLspJHn22KwurKN8VNvDvStdP84=
+		</data>
+		<key>GateScources.bundle/hw_compare_up@2x.png</key>
+		<data>
+		ho7cPuY068JyKtGYCm+MK7F4TpI=
+		</data>
+		<key>GateScources.bundle/hw_compare_up@3x.png</key>
+		<data>
+		mL0VSPlp9b5EMbF4RMmP/+DWQsY=
+		</data>
 		<key>GateScources.bundle/ic_close_24x24_@3x.png</key>
 		<data>
 		Z9/RXrHS3VLdw/F+SiNcLpd6l/w=
@@ -2208,47 +2372,47 @@
 		</data>
 		<key>GateSelectLineChartCollectionViewCell.nib/objects-12.3+.nib</key>
 		<data>
-		fi6TIudDnoE1474d/AqSIeFsAS4=
+		wZVmFFcukr/s8h9pQS/4jNbQnC0=
 		</data>
 		<key>GateSelectLineChartCollectionViewCell.nib/runtime.nib</key>
 		<data>
-		Xm6Dz1CDl2slIYr9CPZxyfpbx4I=
+		fWTcF2OXKKCrTJw5gKw5L1TstIE=
 		</data>
 		<key>GateThirtyDaysBigOrderStatisticsTableViewCell.nib</key>
 		<data>
-		1HNTt/LTsog1MM3Lsd1nJlXr+K4=
+		3CXsOTxkSLI73pqI+n4TZWmUu3g=
 		</data>
 		<key>GateThirtyDaysBurstStatisticsTableViewCell.nib</key>
 		<data>
-		g8NIFZhwkuaeHWgOXJ5gfmWyPkE=
+		eFgBExSXvuLoVHqAaqsb96m5f0A=
 		</data>
 		<key>GateV3HousBurstStatisticsTableViewCell.nib</key>
 		<data>
-		/oFNCOMVLRB6bXOskE7pyYH5TXE=
+		LUqDOSRlmSLqnMQIXmVxZ/czi8w=
 		</data>
 		<key>GateV3WholeNetworkBigOrderStatisticsCollectionCell.nib/objects-12.3+.nib</key>
 		<data>
-		CZUqu1/+YD0naAUJj4RJ6Y93srA=
+		YJZCoqxw6xVjYL9oyMz4wjTyy0I=
 		</data>
 		<key>GateV3WholeNetworkBigOrderStatisticsCollectionCell.nib/runtime.nib</key>
 		<data>
-		sNRcJ1BI26ykzPaBISUAySrZ7mk=
+		EjQ6U/k1YsziQotTHP1yjz2kLXE=
 		</data>
 		<key>GateWholeNetworkBigOrderStatisticsCollectionCell.nib/objects-12.3+.nib</key>
 		<data>
-		MyW/G7mDWgQ7EQXfewDJb02Jg7I=
+		JyBNJppOEK02juEREegtUl39Jz4=
 		</data>
 		<key>GateWholeNetworkBigOrderStatisticsCollectionCell.nib/runtime.nib</key>
 		<data>
-		702VgbnVmvi31PEcgxk73QzPR88=
+		UuO2HbGKyfSRyTMwIAj4NXsACz4=
 		</data>
 		<key>GateZHFearIndexTableViewCell.nib</key>
 		<data>
-		muGWXa2+DwUIasOb3GCPHTKJrzQ=
+		aVeRyWtUgESAjV9zbhUFXbXVVs0=
 		</data>
 		<key>Headers/CoinTools-Swift.h</key>
 		<data>
-		Qg/MzbRrrRcV/vTzeHFAZKprMQk=
+		edw3BZFOujctNSnhf+qCSmaClc0=
 		</data>
 		<key>Headers/CoinTools.h</key>
 		<data>
@@ -2320,11 +2484,11 @@
 		</data>
 		<key>Headers/GTSDK_Main_CoinMessageViewController.h</key>
 		<data>
-		XdycdjmP6Bj3sJk7otkAj84QHhc=
+		5GDUoc5A42pxkIdR+45M5R5XU7A=
 		</data>
 		<key>Headers/GTSDK_Main_NewCoinMessageViewController.h</key>
 		<data>
-		89qaV8/YXiLQUKSkejU/VT3QQEE=
+		SFtm4QHJBky8F8T3virayGcfZDw=
 		</data>
 		<key>Headers/GTSDK_Main_NewHoldCoinViewController.h</key>
 		<data>
@@ -2364,15 +2528,15 @@
 		</data>
 		<key>Headers/GTXAxisFearIndexValueFormatter.h</key>
 		<data>
-		gp5T3TMVWzcZzpcvii6QLHiUkHE=
+		S8Rj3kZqSMjVMHe6m73rP6+EcPE=
 		</data>
 		<key>Headers/GTYxisFearIndexValueFormatter.h</key>
 		<data>
-		sWDD2SfUoElb65O+r+igibNoX/o=
+		pp9aMs2UWpaoeyDl9T6lyDZ9g9A=
 		</data>
 		<key>Headers/GateBaseViewController.h</key>
 		<data>
-		UjemVNHODw0GHGtO670Wkgmc9fo=
+		jRAl0nROPQ9osJRB5CfzCy7CuOk=
 		</data>
 		<key>Headers/GateHomePageController.h</key>
 		<data>
@@ -2412,7 +2576,7 @@
 		</data>
 		<key>Headers/UIFont+FontName.h</key>
 		<data>
-		7KzOiO84zrD/mBak/Vng8LOLQdI=
+		cI550NgzoOJ9XewiiLLYSnt3dmI=
 		</data>
 		<key>Headers/UIFont+HYDENormalFont.h</key>
 		<data>
@@ -2428,83 +2592,99 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Re7DsxZKQzLiyIBnJB+y96jLDc4=
+		x/mpa+R/e88m+ahBko0shm56bVU=
 		</data>
 		<key>Modules/CoinTools.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		bh73cD/ve6HCVMVOgb6Gcx4blKQ=
+		MN3ZwaT56riVUAUPWIc7AbcWsCA=
 		</data>
 		<key>Modules/CoinTools.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		QFH0v/i78/zyHz6KvCnOHL1Lb6M=
+		yFtnhRb33gmmV35fyFq0kTjcnV8=
+		</data>
+		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		yamaqz9ymn4WKqhpQ68Tc9tkMTY=
+		</data>
+		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		DSHW+WradpGGSe8xEFRMRJeEL8Y=
 		</data>
 		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		5R7nLv0aVnEjedPNul0GclNAl34=
+		jLbkFW6UBccRH73qHoLMIyyIyDQ=
 		</data>
 		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		AVNMvnPAlLbIjcL+NYi7ajAsZg4=
+		DSHW+WradpGGSe8xEFRMRJeEL8Y=
 		</data>
 		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ORpEeiinDg4+LitPCjhJIjIG14M=
+		7nvRZ3/Y7ZQ2oqCgW9H+CFExJ60=
+		</data>
+		<key>Modules/CoinTools.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		yamaqz9ymn4WKqhpQ68Tc9tkMTY=
+		</data>
+		<key>Modules/CoinTools.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		zU6icb9DxhlWhjqjjwK2+Dm0LIs=
 		</data>
 		<key>Modules/CoinTools.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		wCraWRlc/toPGn5mHYaicHDihXg=
+		oLMLAkCN7mNUslQBwav4BhGv3F4=
 		</data>
 		<key>Modules/CoinTools.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		PNCjKqpbYmHLRiFH/LjJPUWt6oM=
+		zU6icb9DxhlWhjqjjwK2+Dm0LIs=
 		</data>
 		<key>Modules/CoinTools.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		P/sXuBF75le5ZIn5aPelibb5HfI=
+		SgUi2X9WO1xvSQs9B4eC2rhQV/4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		nzJdI0DIWpxOe2ukZEBEWSFpZe8=
+		20MeUcAV+55QJBKG4j8ETk83Ke4=
 		</data>
 		<key>YCAnalyseDataCell.nib</key>
 		<data>
-		WIUa0qJvC910kDyiw+UC8xTFnqA=
+		6iWrr2XjKFGPiLiY8lcD21FPZ20=
 		</data>
 		<key>YCAnalyseDataMonadCell.nib/objects-12.3+.nib</key>
 		<data>
-		bLDmq+1qFqvlg/k1xsoavEG94No=
+		NC0xghk2ocnQFvEyaNyEZfKC3Ew=
 		</data>
 		<key>YCAnalyseDataMonadCell.nib/runtime.nib</key>
 		<data>
-		fGPh8ebGvAX6+Pfqp7A2tYxG0KQ=
+		YyUKkrrdEMI0S/cFoEWDMaYrBC4=
 		</data>
 		<key>YCAnalyseDataPercentCell.nib</key>
 		<data>
-		7ufptjdaK0xRUGcRhTxvfLsRSks=
+		a+lRI8JMIuB4H+E1P7iDD4+Qg9o=
 		</data>
 		<key>YCAnalyseDataTimeBtnCell.nib/objects-12.3+.nib</key>
 		<data>
-		xSC2BBbuAZ4x+CT20hv8x4m+fV0=
+		sS2BjbPKDbqM+hiPrsRmGymvgSw=
 		</data>
 		<key>YCAnalyseDataTimeBtnCell.nib/runtime.nib</key>
 		<data>
-		CIf+uEYCN2oRhNYe4ch43Hh+83w=
+		+xYOdEfIqsn8r4/8NVKrqzo/PO8=
 		</data>
 		<key>YCAnalyseDataTimeBtnView.nib</key>
 		<data>
-		cgILJaiLp420uixCVjxG8v5s6rM=
+		zNBJKgM/iPrR4WOdVTjf9sytCVI=
 		</data>
 		<key>YCChartMarkerContentCell.nib/objects-12.3+.nib</key>
 		<data>
-		wtfUbfYXU2N0atI3+63dx/sVitg=
+		TWGkSTEqIXPCs6Xf9iSNQ7dKRpw=
 		</data>
 		<key>YCChartMarkerContentCell.nib/runtime.nib</key>
 		<data>
-		IUUGsquzd/02HQchzcFGvpziwaI=
+		PbfgZY/3of5dWQD8202/PAJgJ7s=
 		</data>
 		<key>YCChartMarkerContentView.nib</key>
 		<data>
-		wUHoYP7mJRvoD+qbSYw63vlhGs0=
+		pOM9qUyao19GTPAbm2Rp3NZRfx0=
 		</data>
 		<key>YCContractDataHistoryProgressView.nib</key>
 		<data>
@@ -2512,39 +2692,39 @@
 		</data>
 		<key>YCContractDataStatisticsCell.nib</key>
 		<data>
-		FWHFd80msN68sqnwCHIepGiGduo=
+		iO4XcrCnmtEkOmYBap3cICXXsfI=
 		</data>
 		<key>YCContractDataStatisticsMonthCell.nib/objects-12.3+.nib</key>
 		<data>
-		mWI1phl7vGtNy+ZGb5WJBtMBXqI=
+		dEaWIwfTMX2tOkEQCg2CPcl6tW0=
 		</data>
 		<key>YCContractDataStatisticsMonthCell.nib/runtime.nib</key>
 		<data>
-		J88Fp5YFXI2zFNdPl25Mku34Go8=
+		Lkoo8fGhSxgIdw1yjv9xkEJUekE=
 		</data>
 		<key>YCHoldCoinPercentCell.nib</key>
 		<data>
-		8HJMt83O/MnmNgM/uaMOf/afOmQ=
+		lfP6zjWpkbShpbXt3TyDZfxRY1M=
 		</data>
 		<key>YCMainPushBigDataView.nib</key>
 		<data>
-		OG08OAp6Od3XK3v7Qse4rpInLV8=
+		BooKOyLQlDbymRJCJ8zofb0MQoA=
 		</data>
 		<key>YCRiseFallPageBtnCell.nib/objects-12.3+.nib</key>
 		<data>
-		Pvd596vN68wE9c64oZZiw4M3V48=
+		8sL6aq89gqAFZjY8zy+nZRIGpjs=
 		</data>
 		<key>YCRiseFallPageBtnCell.nib/runtime.nib</key>
 		<data>
-		bNNpLdtC1MInQawVBRafRAaQrM4=
+		YszUrfp0kUbBOzR3DbEiyqN8zDk=
 		</data>
 		<key>YCRiseFallPageBtnView.nib</key>
 		<data>
-		ZVv8sh4WZd1WCVG7lmpE8nK0P6A=
+		GiUcYBpEVfpNYlVqyb2OsDLGqIs=
 		</data>
 		<key>YCTableEmptyCell.nib</key>
 		<data>
-		l0e8yKwGc3IDB25+u3WhgdCx30w=
+		BNLJHyT16YlUvfuu1uTybj3mSK4=
 		</data>
 		<key>YCTableTitleHeaderView.nib</key>
 		<data>
@@ -2552,31 +2732,31 @@
 		</data>
 		<key>YCTradePairBourseCell.nib/objects-12.3+.nib</key>
 		<data>
-		3yYjs02r0XTL2HqLp1t6TYY0OUk=
+		TOOgKxwoYOmALrw0u4+GvvgZQq0=
 		</data>
 		<key>YCTradePairBourseCell.nib/runtime.nib</key>
 		<data>
-		oOdnjqFLk7GO1SNULjKF/7tTql4=
+		JVs0olTvGTzJ1Vah4Q5CHB97ZS8=
 		</data>
 		<key>YCTradePairBourseView.nib</key>
 		<data>
-		ob4ofOcZy6yvxpT+djL8iFwBvkc=
+		PwYW9qwWqzz3TJiaEzylRioxb2o=
 		</data>
 		<key>YCTradePairCalendarCell.nib</key>
 		<data>
-		esDzCF+X/TEBqDy2TbPBZseNTeQ=
+		CkpcMUZbUPTsVFe9QuvLdz38N2I=
 		</data>
 		<key>YCTradePairCoinCell.nib/objects-12.3+.nib</key>
 		<data>
-		dBRGio9fnrO09SYP1qhAPmOEf5w=
+		2dv+nmRykhckBo63GieOby2Ist0=
 		</data>
 		<key>YCTradePairCoinCell.nib/runtime.nib</key>
 		<data>
-		puJBO4QIctDvOi4RaTcIE6kzbnk=
+		kb/UvX+ZIOkmRlUM7ztEP2C4otY=
 		</data>
 		<key>YCTradePairDetailCell.nib</key>
 		<data>
-		yBxvQ4kPMiW3rJWcSS5g8rqy020=
+		KnN405iGIoaoLAzgTvAr7l1SMOk=
 		</data>
 		<key>YCTradePairDetailFooterView.nib</key>
 		<data>
@@ -2588,7 +2768,7 @@
 		</data>
 		<key>YCTradePairDistributeCell.nib</key>
 		<data>
-		yaIh0vu3H2cBT5Jz7UDicOsJsao=
+		vYM4HkEYQUZbHdHXgkWDRpl6MzE=
 		</data>
 		<key>ar.lproj/GTsdkLanguage.strings</key>
 		<dict>
@@ -2671,10 +2851,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>languageData.json</key>
-		<data>
-		Z6z16EPDF/ajOVdyJP+h6xETZkM=
-		</data>
 		<key>nl.lproj/GTsdkLanguage.strings</key>
 		<dict>
 			<key>hash</key>
@@ -2706,7 +2882,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			naQloU+wHXy+n8huR/bOYdBYilI=
+			GmhC4c9tyIOEPlPG+JcCfqq/NdM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2783,21 +2959,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mdc/eSfyeQGN7bs7RMKIly7BkpBVcJ3/QmlyI62fjLg=
+			miNzD5jIOAe3aBSE0IcJhiFTpzW3M4CCA/0JxIQl0c4=
 			</data>
 		</dict>
 		<key>GTAleratSelectCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JCsZf3EdRNVchMH5bG0+VefO3lwTnI1P+u0vtT5DUP0=
+			K/fSeL+dewm2BYXxJ9CFJT6RvtthtJ+ynv+fwrWSB3A=
 			</data>
 		</dict>
 		<key>GTAleratSelectCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lp6e/f2XenBJUv6iQoF5qx0JRmpI3Vtn0ohEOgUN4XA=
+			nIzG4ZJ8WW5xCJBMN81zhdQko7sPIhwM/UuUuo44hr0=
 			</data>
 		</dict>
 		<key>GTAnalyseCollectionReusableView.nib</key>
@@ -2811,77 +2987,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xIY2UiRnkSFehUT6pXmHdViGp8p4NRbYfuXKDI3xF1c=
+			8ON4qPlN6k+wunQgtiOv+lZNUwNguN2FqKyJi2/6npI=
 			</data>
 		</dict>
 		<key>GTBTCFooterProgressViewCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jGPseRCZekV9RCBlbOWjgt3+D/LW7BNAj2xpSuBJshc=
+			LLbXbcjClOVa78DL6IX0Cg8WsryzUt+XXraeZ8YZSB0=
 			</data>
 		</dict>
 		<key>GTBTCFooterViewCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WwAkEKTkbo4VbcGPEwTv1z4FZwajqae/xHa38tX86ic=
+			ElBcJb3iuFovnT1+FFc50V8ODwvKzThh+RVin4OvfdU=
 			</data>
 		</dict>
 		<key>GTBTCFooterViewCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			avW85RMaMBB7L/8DNtew+ibE/bY7HmN3bzaPo9nYXYI=
+			bnAlCBSUsh9qzrOEXgyGN4sgTbP6G6HPiPPRPIOxvGY=
 			</data>
 		</dict>
 		<key>GTBigOrderContentTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pcI32cjeYqKgOe4G+AV4hH3/xLO3kgY5ki+EFD/ua8A=
+			HKzNts18KZCZRM++r8rMb5Brlak4pTglnfhpHoPu1TM=
 			</data>
 		</dict>
 		<key>GTBigOrderTopTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lfQEti9h7LlfIOXaplY+LZvPKMib4XpNOxXpFNPmwzk=
+			0JVyzy8QupxJsaI7tEO8yH4gBogP0LJfWHryi0S0Z9c=
 			</data>
 		</dict>
 		<key>GTBigPendingOrderAleartCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QeaRO/iSLZRGDPD4GMpvD8lJHKsMAVbRHx1hazseVrc=
+			Vty/R/3Bqv1JQ5E8TKYZpNNF7vUytTpDa8znNBqIugk=
 			</data>
 		</dict>
 		<key>GTBigPendingOrderChartTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4h9ADkDq8Q8o8SVGHuQAHrfirw2FlF+HWqj3M21jqi4=
+			+Qy+uWXSqEAZ8ouFobY94OFa374VkMLfbYrhZg1G+KE=
 			</data>
 		</dict>
 		<key>GTC2CListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wpMn8JrFlo2GHdhBM3DnDfIn6ShW5VsQNdVNegq9xYs=
+			v8tXe+gCcjlXX+ALzB4ebmpYJeVk+ynx0mgBxSDYmUQ=
 			</data>
 		</dict>
 		<key>GTChartItemCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VFvDENJfp1Yk26lsqNUYW86CknEbYbm4+0l7tOjsne0=
+			lbpI4jAFKwvCqFgb3GBd9FqXg9cedKb7BMm61F1GQ/k=
 			</data>
 		</dict>
 		<key>GTChartItemCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			r1TVkUYT1Wk5UY2JYG+TqAoPZP/3PLtkya2qmik1J/o=
+			AhjtqIja2cqJDZ67dNT3YxOZcD5e5LzA7xJxyjsDjSw=
 			</data>
 		</dict>
 		<key>GTChartPMarkerView.nib</key>
@@ -2895,266 +3071,315 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p7oXX7jsE2ouWe28jqQaD5vVdwHCzRWVyGgmeGHQhGw=
+			y53DOXF0EUpAvUbVzXQD/E2oe97osYtUI9tfixHfxYc=
 			</data>
 		</dict>
 		<key>GTCionIntroductionListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g/tZHmI2HEe6bURc2NWI/QRxH/rbMXC6S1sGWT8WaCw=
+			AtfSob7xmcggbQTJP6AVbMH8Nlk/GzKGmfwfBKoMI/s=
 			</data>
 		</dict>
 		<key>GTCionIntroductionTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H7IMLVlR7p0UOlDbpfZAQi1eq9PCjOiXVj1lNNgEu4Q=
+			w7ljLXghCDbuMlpd9Mz+31xo59p6Fd4UZ3SeU7MMGtM=
 			</data>
 		</dict>
 		<key>GTClassifyCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DPM8hNWbx0+YucFD8ES5uGbAdjW5sI55tn2zuRxv0tk=
+			hWZD8twbZZHaWapGd4LY3PFKprlmB2JVZeO5UAw7XHU=
 			</data>
 		</dict>
 		<key>GTClassifyCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Budx6OKXdy0L3iwPJUuolMB/8VbSv7eHgzfpqOAGVhw=
+			2bZ58/Ms8aG9GxM8jvWuimezcu+vKp1/Q3mXnHM4PFQ=
+			</data>
+		</dict>
+		<key>GTCoinCompareHeader.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xF3wlZrCICwkmXFpQD3kkk3AtWDPIocRyDuUpCAd0bU=
+			</data>
+		</dict>
+		<key>GTCoinHotMenuHeader.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3AFjV/WqfO0Tn1zsvfAK+o52SP2Z/BbbYVQpYZKp7q8=
 			</data>
 		</dict>
 		<key>GTCoinMessageCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h6hzAx4LH0He3tZX/DHhZ9Tv8JEtxlacCeDxo5+BVNs=
+			PYEn5kdiKsA9bWYpoS7LKaMWxoh2mFEAYYKjwJO2gbY=
 			</data>
 		</dict>
 		<key>GTCoinMessageTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N5KQvFDMwpgw+JUbHS4kxSODuVUiovuXPQkEGw4jWwY=
+			jccmPPH/1S4clkU9fRsBy6wSan037xUhMl2MaL1RYDM=
 			</data>
 		</dict>
 		<key>GTCoinMessagesCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I2ZqB3MgJEJcAAaHPB/My9zLJA/Iol7XW7/cINDt69E=
+			wMsdufBQSIRRTcliMahF36mYsC3G6ThbRH419A2H9kA=
+			</data>
+		</dict>
+		<key>GTCoinsCompareHotCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZCTQ88HiWoajEXk4dMUY910WA+NpTvaG09HVsFXWDKs=
+			</data>
+		</dict>
+		<key>GTCoinsHotCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y8TZyLHBhtbu6z2IX2jtH2YJHsOSv0mvLt+0ZxA6nBs=
+			</data>
+		</dict>
+		<key>GTCoinsHotHeader.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MoW+LMcbwbvqk5ogSAuTI3ALGeBMmWwR8fkg2hZpcag=
+			</data>
+		</dict>
+		<key>GTCoinsQuantifyCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xI+5DGd6b8yKlbzUZWn7ZM7/OqXMyilOocTQXfrpVMI=
+			</data>
+		</dict>
+		<key>GTCoinsSelectedCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6hKYFHbC8tdZ2JsxFQ7rx6ctyxsyMG5Bhri5wEmgU9c=
 			</data>
 		</dict>
 		<key>GTDataMonitoringTItleTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OlLwbdbkDjSkEmkhTDovOzdBxeNcQwyx+uEpO9LfaCI=
+			FC/2oYdayFb583pQuiCSHWArDCMOmpkpLN0rdd/s+AY=
 			</data>
 		</dict>
 		<key>GTDataMonitoringTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N2KcMYsNglhSggNYGfdKxlGHCF1A1uO3jxH8hpMuZW0=
+			5XKmfbNQvn5GwyMR7p73vLLzY5XqdlDYatkmw26jOAI=
 			</data>
 		</dict>
 		<key>GTDepositCBSubCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Mnn+CXvq7Bu5VvTeC/G+/KugV1l5ON2XvwVS5tFpIw=
+			DNrrK47XFAPL9AwtqwxCszPrAJLtXCejYC98Gl9FEOM=
 			</data>
 		</dict>
 		<key>GTDepositPauseCBSubCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aWPz33VNWXjlhP2PA2do9w21HcdPTHyo4kaSI6gSHxI=
+			WqtaEZ+pXMtz+cMr/5+KuN9aun86OgotW3BZ0nXxuX4=
 			</data>
 		</dict>
 		<key>GTDepositPauseTBSubCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3iiuWU8hSdDtT93SuxspN1WTlPsTMu2KrA5O9lTDwk8=
+			33v9hGCp/BI813yrbtSTUXN46JNLXqmd4MY29vLG0OE=
 			</data>
 		</dict>
 		<key>GTDepositTBSubCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H3KP6wEf+/ANpew4oU0O1WHsoWsaNcmQoJdnfua+ofM=
+			T+Ck5xdnsKSq5karuWJMvmp34i/qSF7DUTyLCq34pzQ=
 			</data>
 		</dict>
 		<key>GTDevelopmentHistoryTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dVbaQ/6ZvSwoLAp5ogOn+Q1+XK6LcLdjNbN4EAutV4A=
+			FE3XmmDVq1Q+lxHAnIfD3rOWwBrhNM/6Weji5NYSXoE=
 			</data>
 		</dict>
 		<key>GTDuoKongLineChartsTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4h5oT/HVfT/V/acQ7prWF0NQxczQkfjQILvgCxkv+XU=
+			jU13LJOmkl0czbFW3tIXVwHB7Xj09SQuSszLiWOJrGA=
 			</data>
 		</dict>
 		<key>GTEarthPlateContentTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XlYseVYpvzzdqfYs/+Ra4GrZk6QrDxJBpnxhdwU3fWs=
+			/iF3tE9r7wVyxrdzX5r5jOp81mDw9MITylHexsZ1iK8=
 			</data>
 		</dict>
 		<key>GTEarthPlateTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CZwV6WMxuIpcmDBgVQEvW8S4gbqPgrhuVgM9bufjHos=
+			5LEL6QqnjSff+fDmFq36GT14Zq10IaWdIq/U6qGtwRk=
 			</data>
 		</dict>
 		<key>GTEmotionSlideCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+05fm/8i9zEI5cAeREfOb3IkWJuIm1D3PERWcc1gdVo=
+			tXpgZWnyQxUTVeS+l7Ggygfxxbp5jmWG4bsPXlgtE3c=
 			</data>
 		</dict>
 		<key>GTEmotionSlideCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BOS8zPVdyaPjY/yhV4oK7+lEfocoBFK/WqiCM00oJJM=
+			0aF/HpDKdWKSKeI3+T+BWDPatFvvRuld30MvKPTO1d0=
 			</data>
 		</dict>
 		<key>GTEmotionSlideTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k4bHhqHLGfOXW3UzzXt8i7tOZW4TMV8Z+2pD6folqGI=
+			jAYqIRYvSriSDPUcA6L/zred5Q74IcvQ+0WSNKJwrJ4=
 			</data>
 		</dict>
 		<key>GTEmotionTimeCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pzDCzuSMC0bxHjYswVTYIIerGMXaY22mlcaRDlR1120=
+			3i4wKp3hiZj93F2pRjxfATFuf6/byvKSWl/8K09guuM=
 			</data>
 		</dict>
 		<key>GTEmotionTimeCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			23XkXJGMw+x/2CagjKXLye5QX4J3lV7giPWhlWqBb1E=
+			ebvp26J8bWsRI0fgkOx5R7j4FrFX1mRv+ktnRQE5afw=
 			</data>
 		</dict>
 		<key>GTExchangeCollectionCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DZPEDD2CDwhmuusCzPDF8VYjkflq4YkboYGBXi47/P4=
+			uQt14qHxEwM8fkZFEXV6ZGmuQz2mMPvqbR16NFU3pnE=
 			</data>
 		</dict>
 		<key>GTExchangeCollectionCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hcEMdf4iLvCuXv0rdOyeHyW79VoEFZep1Y3UtrFGgx4=
+			66aV70yLqYZu/CHtIg2TCIo4JQwrw78swaYZk4WZ4H8=
 			</data>
 		</dict>
 		<key>GTExchangeContractCollectionCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ueChPGGz3bUfPGksUs6U2aaiS10sLCnhn1Pc3PDnaZM=
+			BL8SSXyrwwyLdGG0NFaV8WGVi/N9ulWS/uIZ3Fu1JRs=
 			</data>
 		</dict>
 		<key>GTExchangeContractCollectionCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8rSM7McE6lV6OLzq41ourKSlP5o9zHO8i7dFU+ncVvg=
+			A9r2up1SlpVZUt9UJEJQ3yG9cU/4m53Wm3jiT7VWots=
 			</data>
 		</dict>
 		<key>GTFearIndexIndicatorTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/kGmtMClYpEKteFGoRXkP4OpVs94B6i/YAl8xk4Amg4=
+			EKw6QTfSwAE3TkjWE7EdkMQBOuoW1KkcqoqgFMkDLsE=
 			</data>
 		</dict>
 		<key>GTFearIndexLineChartsTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ROgYPdWWjWDTkbHZbNLH4vo2nLGZsQxeXfY8W0SjNI=
+			M5798A6WjfA27eAue05+MPTlSwLx3pFIo1iDJrFvLi0=
 			</data>
 		</dict>
 		<key>GTGTDuoKongSelectTimeTopViewCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EpiHE6tXoZq5SIXExAnALHveBZzQnqmAXZ65+JpBwTQ=
+			YBeH3DXUBig2vKZTfTRWuPUdpotkk8U5Exy7E1l7Obo=
 			</data>
 		</dict>
 		<key>GTGTDuoKongSelectTimeTopViewCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D01kzIrR5/LHrT+YbwgzvkzxcNbnhkw2dy20LAnS6/Y=
+			PK+2lHsrPO8JHX/EkyKRv1cnV0LFHQIxEEYeiCUOpKw=
 			</data>
 		</dict>
 		<key>GTGrayscaleTableViewHeaderFooterView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tUxrgDkxNGjVHseRal6JIMd7TPc/x+zCuzMvsqtza0o=
+			99WdfPqaEHhFZ+s0e++5jFz/iib2M8GL0UKwS8skMzU=
 			</data>
 		</dict>
 		<key>GTHeYueMessageCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			20y6T6dV/Dyy3N20YfKYHFtlzj+vPATRD1kzYmlmkdY=
+			mFz4orBlKHY7vOGNrrqlMCAEF/OTnPpLT3GGy6nq86o=
 			</data>
 		</dict>
 		<key>GTHeYueMessageCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EwUPnj/6PIM05nvUtb56LHYfzUka0tTtpxKsqG76Yjo=
+			kbQecSN8Y00qpSxPqPdBxBudgctydcZO+uoSUFwXgFE=
 			</data>
 		</dict>
 		<key>GTHistoryListCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yXJItoKaRj8vTcaYTYwflPjEgwhiQgSMfda0AZ+DK50=
+			iMgNByjdpRSH/WThHdQT8CBiPiLBH4230b5+gyS3u38=
 			</data>
 		</dict>
 		<key>GTHistoryListCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tAr5fpw1u8ngynU7IB9tb0KZzN4UGDo8eo2HK4L59+I=
+			iHcYFU7OftJ2p2/HqnEXbp4qAUUt7wjFFtn2CjcEm08=
 			</data>
 		</dict>
 		<key>GTHistoryTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TZDkMl3ZVsFl8BP+w1M5b/ZZ73jBx8ZrriN9hjY0PDo=
+			gDBDpdXQuBv63J2UijhzI4PDojK0qV2Ua7kz59pTui0=
 			</data>
 		</dict>
 		<key>GTHoldChartsStatisticsTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uUGkVylT4L5EOKx/qjrRsNJ0Gh/f3bvPQzu5KRjAKJk=
+			NYVTrPFo+ysXQbVme5IglNNDMpU4uT5v8d9Y7lNE/x4=
 			</data>
 		</dict>
 		<key>GTHoldCoinHeardView.nib</key>
@@ -3168,504 +3393,504 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BWZ/kxWQxd1CG/f0VPjl4NtQtkGcZ2AZMy2PHcgmFU4=
+			7wkFgFmersuAL0oFYabKDtNB0gx1JH5soLfpTPVAx2A=
 			</data>
 		</dict>
 		<key>GTHoldCoinPieChartViewTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kHdR3Z2WfH/r1GFbMzM0Ek32ClKn0DSOdbjWSC4KtQU=
+			6FXfofGtS/LiG0b+EKxI5dshiew4ucxcuUyyPEORsmo=
 			</data>
 		</dict>
 		<key>GTHoldTransListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XdzvIv+SpUXLsRwg3w7TcSFGkKv8Cb86VjV8jQHqsUI=
+			BH2H5dykjrYsV7xKIPPh0sAloIgvkNk6oK3g1p60O6U=
 			</data>
 		</dict>
 		<key>GTHomeBoxBigOrderCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hbJpbKJ1MEB1Rbh7SQlHNbM0cBLVDEiHoAJ8SYxqxic=
+			n+Re52yYgNjF0TL/PCZqoYtUnbkwY7f8qiigRIIskJU=
 			</data>
 		</dict>
 		<key>GTHomeBoxBigOrderCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IUEwNTH0Jj1K9n/QBTYyKdlNuaehYNqtJdaVZGuVgxM=
+			IZhCMIzCIfj9JkgupWpcLqdvKibIdkULoLp/Uqcs+Zw=
 			</data>
 		</dict>
 		<key>GTLinkMessageTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2ZGIwmQhjhlTquDmlUwc1/CmGO4C5zhfv48UiZlkBS4=
+			gxw1ONfkOqOe/i+CldpAyUefeKZnSlqmebhDmmWVgZ4=
 			</data>
 		</dict>
 		<key>GTLockCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SsY8X7Gd2VXZnstbPzuJgrKj9ESqyiIukug++hlm0n4=
+			im5n8Urwj/p2tYcmiLii38uT6Ir6fByO4JaJ5hSdyzs=
 			</data>
 		</dict>
 		<key>GTLockCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A5Sfx663G2AAycHn9trf/iR0a6RszdU+j5qTPBC/t28=
+			XZpOG9l0AQMBTc21xYZZNKr9wpRcVwXKVLwPPu+1Lls=
 			</data>
 		</dict>
 		<key>GTMainCoinQuotationListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G0Tfg/ZQQh9hLPZx4EDP0Mg0VWmDSIx+aBq9QwUkZFU=
+			SVLJNdak+DEVXLjZde3sMWzldZ/kQCmfnRNECOvT0tU=
 			</data>
 		</dict>
 		<key>GTMessageTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oWC8gXnsNDd6LuZKFwH9/zJVZ/+KpWPBCKdcBQXGJv8=
+			vF5EtkSPitxrmsFhTI30sp7QbEqljdrrjWQFuYZDwcQ=
 			</data>
 		</dict>
 		<key>GTMiningCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HN/DKO7TMZmD+wf+D8QzKsrnmZp+0cy9pMSv3siur/Y=
+			KkWLP0vK89wqua4Vc7tzpyCRNhOopHb2TO9EVkXpz4Y=
 			</data>
 		</dict>
 		<key>GTMiningCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			R+ggMUcE09ticf1rIMRO6F7imyRpQFVf4IBAhC/3w4o=
+			ZfZ1B0+f++b7Fw+xXWNegRh3e+vMItyn7xvZ2xYglfU=
 			</data>
 		</dict>
 		<key>GTMiningTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kQgQsSkFlRuav/tsmoqZSY/xmY78ro0j7Rfrjh7aEgE=
+			Y6rkRIDxBsT5RmoKZhwMT773NL7jDo6KRk+cqWZsqvY=
 			</data>
 		</dict>
 		<key>GTNewItmeListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OWcBxyPZV6FLCD6nKvjufSAgp4trDnoSsZ0LYKewi/g=
+			CKwRB6UqiYWemSgH6KhOM+Of74XPrTUXhJSD9lzNLcU=
 			</data>
 		</dict>
 		<key>GTNewMainCoinQuotationListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+7zLzFqzfksbqXxoUKy+zVx0Z15hCA2iJe1tG7simOc=
+			NXRYkt5BJqMeQjxYuodwnecsMXFEL9vsNTl09OfmOsA=
 			</data>
 		</dict>
 		<key>GTNewRightCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ErEw64rAJseFn0Wme5DMcXEHtpEriUBBj6zNIay7th4=
+			G+xSjHxGjAvtjDScGcmPV2dlbvQuerZtF83k+w6oVmM=
 			</data>
 		</dict>
 		<key>GTNewRightCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D+6Src3823sJU9qt6NmVb2yIbBM7tWl+Xkf79F41FKo=
+			wuctMGiIfHq3x6pPjeT17svPkaKvr8QZuWz/3xgVvGc=
 			</data>
 		</dict>
 		<key>GTNewTopCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TWvfe2pZ4COSmvw/o6QmVkWu+ezfW4kwplY62X7hJzA=
+			Y1L9QXsZET/6kXaTHQYub1431ZKRMobv81mvF7uy/Bs=
 			</data>
 		</dict>
 		<key>GTNewTopCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			elGD9c43EpumTmMfyBs1sOW43BMvGEh7bh3R96ffl8U=
+			mq5wyv+p6Q8+74ABzBli53FbXfC13tXROMKhfUhH5cQ=
 			</data>
 		</dict>
 		<key>GTNewTopDuiBiCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AivmsrHoHJBBc765prqVlp5mn/mnlc7Gi/ukP7u2c8s=
+			8AEo8XOe86IChBrErLXsqonSgd4gVdOUj+8UTLoDack=
 			</data>
 		</dict>
 		<key>GTNewTopDuiBiCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/CNrujzZMWARTAYNvDc7gnEO0lzpBcoQAL8bYRF4i74=
+			7vqE2/MBEyiTLVAA3M12XX1o/8Kg/pkkPS/mOzWoEj8=
 			</data>
 		</dict>
 		<key>GTNewZHFearIndexCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sk8bt4uTRGPRKUWW9tljgsxhh1KuNYT2jaC5l9Lba7g=
+			23Q118gLScmjk88zYTebhqqJ7fIJTqi6Dvcs3reGCXo=
 			</data>
 		</dict>
 		<key>GTNewZHFearIndexCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z9J99VTvPgXPVr5dYeSe/4Ayu5s5jmMnUNQtJPBAe/k=
+			noy/yHsEd8WiopWnskhcm04PR+w2OmNKp9LlIIR8BxU=
 			</data>
 		</dict>
 		<key>GTPairCionTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C1bkGgGDjPJONj7bqcpp8lgH+FEV0AJiV8cD6epqnWQ=
+			0j393FmisfqY6LEiyXGqkD/Uq0ggwYPzFacCgKwu2Ts=
 			</data>
 		</dict>
 		<key>GTPieChartTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iKvJnDZ1S1N66FZ20074bNZ1iBWpKDH59Z9mwUPI6Mw=
+			Mai7auW4SLaFVrn281uecwuz2gLU2soc6u+2C7sMSG4=
 			</data>
 		</dict>
 		<key>GTPublishMessageTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w7Sx5a6Oj6Ysu3NHbUbd2GDh2xlMIzZPoCR8yilYStk=
+			3ISDh0iogZ7dgaOJ1+5IfsZXDi6QK9Ec/+eUWc7vYPE=
 			</data>
 		</dict>
 		<key>GTRUClassifyCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EGEeuglnHlZiCdcz9Yz9EdMyldyUfZScpHgz0nafvfE=
+			yhH0ht/bCaE3EttjsV40oM7F0GWwK7CrgJg5/bV0vjQ=
 			</data>
 		</dict>
 		<key>GTRUClassifyCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xyRzYfywaYJ1ATctCzQGF3VGWqgMVIvWO1/Jl1FD6Ko=
+			Xyi3boPGAQ5FT3jv3eX3g0z9ZNtKlz0vvuX7h+I+Whg=
 			</data>
 		</dict>
 		<key>GTRUNewZHFearIndexCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SBavdCXuF9uCwakgAiNzTxmQQt20gPbAV2mbrl0Q7WU=
+			KjdjLtsXOTLz258qRuxgc/NX+TXuRo50puPh+6IIlGc=
 			</data>
 		</dict>
 		<key>GTRUNewZHFearIndexCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wOLpwz/w+ZKEvI0I/sQ5ZpXiPIJzAHEngSqFe8pe42M=
+			RK7b7Xe+YrPf44I0518W1qoJz9wNJ18VXNqu/j6LOPU=
 			</data>
 		</dict>
 		<key>GTRangeDataTitleTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QSIsHb2lDNrEQNBuZ4oRbdxwFDSj4iSzd64NsPWkK5U=
+			SvxPz5cunnPqG1DysOMDpUXwo/iwGTD9oxr9brEgIzU=
 			</data>
 		</dict>
 		<key>GTRankCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			txj32/bSNWkxU0dp4fvTJkZ/azKbTkNGRueKodqMIKs=
+			zf0y3poD+g1iiJ1b9Q7cstdGEbdSERx/oFhtDRDdvN4=
 			</data>
 		</dict>
 		<key>GTRateChartTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0N3WjlyU+WM6wkNGIXDKnIGHvpuor/IM+i9LUhUENnY=
+			YFvEcJj/7OCfWW4D3+hOZnKLN74iTHHV8F2JQXtPckM=
 			</data>
 		</dict>
 		<key>GTRatePicCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZHsp1qUEs8ch1yt4c5te9BMD6RLzo1M54/EuTIw5HQg=
+			fohpDiYwHHgt7MePHtjWP/pQw4lYaakqjrFn/FfpQ8k=
 			</data>
 		</dict>
 		<key>GTRatePicCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k/eBZmRX7kZUlS5fjGehpfvAF7SQy2Bjt5LMRgfsuZs=
+			f3fFGnWlWVOgX88eEdiMOb/IfyZGGK7TgZ5Y9e8JW/4=
 			</data>
 		</dict>
 		<key>GTRightChartItemCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7W0GoxJdhNklxTCP2W9jOmkXgfb4rFPkXltOpA/0wDI=
+			lhNId5ErHsu8guCxnuswYSTFcbBJi7sBDExUXtg6Gmc=
 			</data>
 		</dict>
 		<key>GTRightChartItemCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			k4Q4SqT2DjpCTtbM30SmXF6R5ireEC6fzMO4fwQZ0/s=
+			wB/n2Kok+KjyRBca82Sl/OnlRM/n1ai3YbD1ZzzJAP0=
 			</data>
 		</dict>
 		<key>GTRightCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LscyMm1mE88xzgnOa5e6rGynlj07PzIjxaZAoSZXmPU=
+			KpOb/Fs7R6k3xyc3WvUlkGpUwU/oYjgYnD+19DDr0j0=
 			</data>
 		</dict>
 		<key>GTRightCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WOEr0LgM+pEBTNYAmdE6fTCsyid0PNuRmE9UGM9pzC0=
+			fYvLFmVIK2LKGE5roqVPQ4jDpcHWd77OVNK5oqf+fMI=
 			</data>
 		</dict>
 		<key>GTSDKEmptyTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MbQOlOAilaPDcM2wxkbNNLjSL8ksFXxmqsyZKoVcFqk=
+			Cm37cy9CsJzGyOm9yL+jRhfvhOXqf+Ry2iJO/kO00pw=
 			</data>
 		</dict>
 		<key>GTSDK_Main_BigFiguretranListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XZeEgoT5F5joIWk7ZY+Axqotm6xyRvD7FyGCINTwR9Y=
+			VXRffeYKx7FyhM1aDzCmAS6wXQLiN7nzixh0Kv2WQ2U=
 			</data>
 		</dict>
 		<key>GTTopTotalTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DWz0MOQ88nZo1juXg1WJFRy//o4+sa6Vpj7G5tQIgO4=
+			ypDD3fYXO1HYFAgh4eKSZC7HAa4zqWROyz5v5hayDtU=
 			</data>
 		</dict>
 		<key>GTTransactionPairTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tsQJa598lNQIq4m/DzMkyKI0VyVZDuh5ls35ZJ3IEMM=
+			KH49aJk5+6P9TFyaTCtZJsT4rENFbLcrqxxfDH6u0V4=
 			</data>
 		</dict>
 		<key>GTTransectionRoseMoreTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s7KBJLGnesci50nI6kL6nnDIr3c9Fm/6o1Bd4/Y3LV4=
+			dAtGv93Ip+0mE4i2c6bobtzTosu70BUoXfp9g+ZR1r0=
 			</data>
 		</dict>
 		<key>GTTransectionRoseTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mt/MxpLA3CflJUK9xm0SRs6dKf+BMB6p/xk4FKFGnIE=
+			dBypQv7hAPENkDKiCJ1mx5usIUfXCP8yov/o96NiK5A=
 			</data>
 		</dict>
 		<key>GTUpDownListCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FV/yIH5clj4k3G2GiODQ1UgZbqSES67KYmevSjhPb/I=
+			5Ywlj4aH9DVEqdqazgpV0DVLxd5ef93acho/w3ITOz8=
 			</data>
 		</dict>
 		<key>GTUpDownListCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NQcfP9HDAhRLVumOVcQdYT03iP0RrRSZHpN5/yGl+CA=
+			uwiVtjRLKe9hZmtRwczeMFLZ19BiO4ubJ9HZ6dHRxAM=
 			</data>
 		</dict>
 		<key>GTV3FearTableCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fOYpcBDEWPAd+aFIHqPDpClszk7EhIlJmbPIjzxxalY=
+			MwAR8EeFjl2IwM5jN+sUhfi/hEVKzCq34V04hMjSmn0=
 			</data>
 		</dict>
 		<key>GTV3HomeBoxBigOrderCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9S2FkKWjjkn5FBBfMu0in5ZjzidoJ7a8vSVzHXzS6n8=
+			Pj0R3lw+FZCF7sy/NNsfQASFPmNOOgF6G2YoJfxR5Oo=
 			</data>
 		</dict>
 		<key>GTV3HomeBoxBigOrderCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D4skJTPLfT4Gg1AP/2bF17fsJjJmrtFRselI+XvccLA=
+			yNMNurPgiKpVETiW2nPzU6YpVhVx1oyrdxTNoGab69I=
 			</data>
 		</dict>
 		<key>GTZHFearIndexIndicatorTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QLaOfRFQeR6RIAX5eATtsM8vGz7KDLiWwjy9sZIH9Hc=
+			yl+LCP33AaRYbKqZD34Wq7xm73I6DQTG/WVriCab+f8=
 			</data>
 		</dict>
 		<key>GTrateSelectPlatformNameTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YPi2btraXOnROUlGcCygmxX5CFKA15iNtQNwUP2Ih1Q=
+			ngzoymWHLNUzLqhHl8/mp/VxxQWnt7wheKozCmkp+YU=
 			</data>
 		</dict>
 		<key>GTrateSelectPlatformViewTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fCiwT0cbvShfBy8LqSun/YupIoDmt4Lmg4o9ql8ywDE=
+			pdEv5arC/AeSDSOip9FllHUAV9ItqPnY6wm1OaeUTSQ=
 			</data>
 		</dict>
 		<key>GateBigOrderDistributionDealCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DGSUFQdCvFtmTsyi5Ztd2UPl7CTxAzsRYeUzfbLkxrU=
+			Lj+sXpMdQbRLMKosDBdPupGEmrrEyXdxIJafyWjrbRw=
 			</data>
 		</dict>
 		<key>GateBurstHouseTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZB+sZZxbmHG5z8W9kVHNENyUtKKESydWPrwHr7gIUVk=
+			/HTYtGMM6SuyRyZ427+tmwmhh9IB5lIEgVDy95G2GwM=
 			</data>
 		</dict>
 		<key>GateBurstListTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9YbWrbzx7J3SSKmzgtorMcRHQOc/+ANNRCQ/YYozUHs=
+			Tmc8T09rqpm5Ekf6apgOiz7wrQjEzy9pHnOjECRIC/Y=
 			</data>
 		</dict>
 		<key>GateCoinBurstStatisticsSubCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F00R+GlCwkeGLqhlF0vJndtElt6dg3CUbhrcfIhUEWY=
+			HpRELuTci4SVvUZUEtjkfovWOQGGLSxcAj2i3nPgMK0=
 			</data>
 		</dict>
 		<key>GateCoinBurstStatisticsSubCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a+sdRkQqqR+fdUWwrYjt49G0Vx5yZ94Qh1LdNzOrAMs=
+			H4saF58IxNebXTXsH34NTFegxkd/sBtm/flKJjkhUxQ=
 			</data>
 		</dict>
 		<key>GateData1TableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SBJWjZInRTDrdy1gBbtwAWfwnVjYc1bzv0uxqIb51Mc=
+			eUa0sc3vWuVuxQOiswry0qXC3pQ0eM7liN5jTYpeeqQ=
 			</data>
 		</dict>
 		<key>GateData2TableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rTvPRwNgSJKKYL46ZlJioEDlMDULyaGLTum+IqU3US8=
+			oHhbtu/Ka5VcER7zpGhx4v88MO9ozePOmH3BQKOz/1M=
 			</data>
 		</dict>
 		<key>GateDeliveryPositionAmountCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4yfHU0xf0lBNybC9pxy1HIU6rskurKSBTY3e+fNjCpQ=
+			hOUUrXRaJiZRMIOpot+4xpSXZ4zWHX9wRQOMvh6vd7Y=
 			</data>
 		</dict>
 		<key>GateFearIndexTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aDsapmZtJcxAZUQcAxv+9VO/x0q1lPylI+V/AnewP2I=
+			UPU3JOGrg7UAwpHEDlYnAtwe2wVeEz1aNc4Hgu99rLo=
 			</data>
 		</dict>
 		<key>GateHoldCoinTopMessageCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			buQ5ilJhbKcWw6XgITi5bsXCXcWkRZRqqTfuwdwoSIc=
+			U8k/IW5xCfkdIefKhHRsJt5xmvIp3jpLnQ+NiYiMIkU=
 			</data>
 		</dict>
 		<key>GateHomePageTopEnterViewCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aAgL3BDW7P3xPNpuXbyaQ8qE0/+3wAbiiQ7Xq4IwNCY=
+			Yd2u4lodhIdCR1ACFZGgkYeH1sCjzU0uqJ44yeqDT5E=
 			</data>
 		</dict>
 		<key>GateHomePageTopEnterViewCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z6Cc/Vcn4mQsbj/6VAALMi5+wTSbN/bKr123byEl/8U=
+			Dg1Fu+bfzF0WJbGmTKv8dCH4WZMXg50a55OlBwxn8yQ=
 			</data>
 		</dict>
 		<key>GateHoursCollectionViewCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lJ0Lo8HQoWWh5HGoZvFFsw1jDbpIKo12NdohFr8Q7xY=
+			ianhLglXxv35laWv+zHm3u2f06Q4OvShkJSOY2g67N4=
 			</data>
 		</dict>
 		<key>GateHoursCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pac4b0H5omN8ZJ226xJ2F2U/HU999jbypVtyjZTbOx4=
+			7X0iG5szFT2sRnOc+8v3Bo6WQ1QE1y9DljlhOzLY/Yc=
 			</data>
 		</dict>
 		<key>GateHoursTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wdv7/GQIVnANWvJCJqP8qyf2KG0m1kVhFehCRv+EyUk=
+			ftqRP7G6vBcVthag0PPgXOu/NIT3586OfYHRGj8DQvU=
 			</data>
 		</dict>
 		<key>GateHousBurstStatisticsTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			unGCS4cbg/I/Ryt3ARnGBbnj+z3aITYqHWs/1X0S1Ss=
+			IgCIEvo4bvfEdder+MwYItFlMd0zZozpHtim0USpozk=
 			</data>
 		</dict>
 		<key>GateLineChartTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aqcGVurilOe4w5E2HszH9CV6Nen1cz+LN48BTRLYBwg=
+			xRPzz5UeHFpoZLoVbucL50HQC7sz12wzKsqB7OQCQcE=
 			</data>
 		</dict>
 		<key>GateMarketValueCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5PzJKDQup2qB9iRe8Bb0JcrYntBKhlrJF85fxCCPvks=
+			BDyxEny+G3v/qiS819MjfN3mu/Oe1jgwsvcLc0YCTyk=
 			</data>
 		</dict>
 		<key>GatePrgessTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qHK9jb1CrF234j7CzkXSbIwxO0iehb6vJ5ly9OQjK0Q=
+			jzanXa8maTPBydhRXj2zg3Gv6j6FLXfDtxaw1Ck2c88=
 			</data>
 		</dict>
 		<key>GateScources.bundle/AnalyseData/YCAnalyseDataCornerBGImg@2x.png</key>
@@ -5170,6 +5395,244 @@
 			bJLwmmKYwDokJJxRWabIBcjdODG7Bb03kxmtGw1RkwI=
 			</data>
 		</dict>
+		<key>GateScources.bundle/hw_compare_add@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oYmzRiktds9/Q14/xL7EjUe5exGFfTY6qMY37dgeQvQ=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_add@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J24dKy2BBms6Bu18Pe+x7JneGa+ERz2Z+/9NSCX9C4M=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_checkbox_false@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RmWWVjAfacbofFN74sNSAvmVlAxGLNu33kNOf+uiOAI=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_checkbox_false@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qEgaOAsFv02aezZoDtXxCmFYCcNV2byEPU0PxsQgb00=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_checkbox_true@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qdCeuh9y56YFvspa61/EgN3v0DsPPxoU/dp0f8S8zdM=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_checkbox_true@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ayTP7eVoNKiYm+5RCYWHEZ5bL3LOQbe0gERJzmE0Qeg=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_close@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wR+k9kNTOSlTtDWCTU/Eorg5Qt5LY0IizAsyYX7XmJk=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_close@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RtRnWldCJe5WheCxdpOpc/Rb+t4Cr5XXXSlqxs4Xea0=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_down@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lo4fz6x06uMigZkUw5DOgBiya0t0OT1PeXBSf0Of9jg=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_down@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d8KVtUenEX53OC4cOjYtzuaMNUk3xRuQN3xa0V84wVI=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot20@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x5YX/4MCjlLogmzm841r1JqX/JlfQv3SPOZT/9S1uhM=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot20@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JzwBBH9YoWr8pmv4gTzkou4dNJNA+T++iOrEN6tG1GA=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot30d@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fK+K/nOJxMGdlee7G/H0i5ZLqZitQS/E8KDMzW/n/ww=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot30d@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9mBxLd8geQPBfK+IGXIlqESFkN1yGcdiPe2V3c3Npf8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot30down@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lkUT4RoaxG+lgSLOcF7JCwH0hHPX3sJ9H5Im+nQ+T50=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot30down@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			27ktYPxcolvhYtFmzXBBV6NGtcjejcJUaNjD+CdY2WE=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot50@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rw0MsR2TUwXfVqga/HNt81Ce5Iz0VqItURgBYMeL8gM=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot50@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u36Jrs6iDbzTYFMJijkKOxiR6jIqFo+hSy7vq8AIAoU=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5BRYgpeH92lN0GblSX+jOgJP7lXBLplN1XdZ6puyUO8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OAQer8TsG1N5TYHf5j5B8atTGgqu8Qgb0HfMWj/vVyU=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot_explain@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XRXMQ6kiSPDks9ymCgR1fqkx0T1u9/F00y8ORaGeMn8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot_explain@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z4EIsncZqgERalcKn06staYszMNcyNZAPdPwRbekCnQ=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_more@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+D3heCIe5avOiIsXzLBV+mP7WKcKg2ztN3DANJtAgz8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_more@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			adpxYpodnsOskHWuD/40KNA2XkgsmJ6oAlJPyDXye8Y=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_pk@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8C8eDSAgYV6qLsomKJ9MOi1140jxBdpgOo5CvYrTAqk=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_pk@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vd3roYGUoAruUtiDFi1fJy/E9Nd3XfdUgjWuMJKagZA=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_rotate@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hqEbitAAn4b7MQIzlZrVaZ1a5SqM08nKH7C1zJfYZa8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_rotate@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Sit1I9uw06LRSpACFKSWTwOU1usrXoLmt80U+HBBu3k=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_top_nor@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZfFQMPLps6z+FMJojjvnBEPcW/Mp9LFhRpPW1mc0lEw=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_top_nor@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hvuQaYRiaL3XYIwjPR8PlLdoi0waVa48PJvYoVud/U8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_top_sel@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/BEtkPPJs+P81rE8NyGQ61o4cqiCrLaZ7tYI7xIDr50=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_top_sel@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1JgCp1ypbav3GHi1yG6NsAR5ut0gG6QzbCPwz9FEr/Y=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_up@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xeATq5XNk2yFTVddUlUPffrhRhwfZKICMOhZRdrOGKc=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_up@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			scqOQWZ1j7kkX7nPECn61AG3q4cy3PsoeN90pFIPfDE=
+			</data>
+		</dict>
 		<key>GateScources.bundle/ic_close_24x24_@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -6616,77 +7079,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rcNGSBy8Bj+xqL679Q9DC5FdB6kpS/iMHhyyNWOMQsU=
+			AdFHKVL6JSE7dwlfh2Ctq5qC3DXlUXUF1wPIyC4DH6s=
 			</data>
 		</dict>
 		<key>GateSelectLineChartCollectionViewCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RhuPfvGK68ZjAIr01lKNRHxlwhsewHHkqwDFCiHjUyk=
+			ItJMrgrzvff3w5R7NiBf6ZeFDve68idvhZpr0g4cMIA=
 			</data>
 		</dict>
 		<key>GateThirtyDaysBigOrderStatisticsTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2+6XepkhbCyak3tKaCFHRbvValukn8hwh4dGi6UOwZ0=
+			QI8Xg16EB/nvanVAxU8axyT6x06U0ZyCR5nZOnnZ3JM=
 			</data>
 		</dict>
 		<key>GateThirtyDaysBurstStatisticsTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SOVoK4LezsRmqpJLtZbw548bR0kSFlRPtOdHeJoM6d4=
+			2lM37cDYHBo3Lvh6jzQJ8TDVlO0/WPpoTQFkggpvYpA=
 			</data>
 		</dict>
 		<key>GateV3HousBurstStatisticsTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			isV6Ljb8jg7aiSL5XEs9zTX4wDTAaTZZDkCooXPxj38=
+			c8GxVj0w3UUIoBr+FqFnCiNJ2z2Y/P+/BIiD+NmW23w=
 			</data>
 		</dict>
 		<key>GateV3WholeNetworkBigOrderStatisticsCollectionCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+FLokOQKCPLAA/StogSXVehfdh+D3L9ObNgNFvV/xPY=
+			n60fBzdJyj4uwcy46fsoWFQFsCXtoz8wwH0ctQA8u/Y=
 			</data>
 		</dict>
 		<key>GateV3WholeNetworkBigOrderStatisticsCollectionCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wowG3yI197tKbZlbL3XEDyk9CRTKoGtum2mm77g7vwM=
+			2Xj894+7iwgiPtEbqDr2g2u+2NmLwHWqXJGQ5Of6Kg8=
 			</data>
 		</dict>
 		<key>GateWholeNetworkBigOrderStatisticsCollectionCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fVRPg5OuGYoh9nsr814RSh2h0JZZDpFqRmnGYaaCegs=
+			iX3lsMMYXQsWNEnIvVHAFt2DjhWju9BEdtbjuMRGzbM=
 			</data>
 		</dict>
 		<key>GateWholeNetworkBigOrderStatisticsCollectionCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w2uZbwMWKJv0YtOuVzL6ocuNPeYV8XDO0nsRnotUns4=
+			awz3Q5l4qIXT4uhlEQ5kRXFgAy257IYhDxTsmzEYnDI=
 			</data>
 		</dict>
 		<key>GateZHFearIndexTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RsilmcHE/Ebt9MO5hrez6Tz4VZ9f+x7WPg/pbWcom/Y=
+			SVMYPdzJCwAeNa7NNqTnth90zkMGqe+n5OKePomKAjI=
 			</data>
 		</dict>
 		<key>Headers/CoinTools-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YW9ucu020P53Tr2jG517mNz1mVXJr9xQExRSyeZKJsM=
+			mjC572+fSDNHkzA4pb1Nz0dNZ2jutEJ0hc5fkrkKGUs=
 			</data>
 		</dict>
 		<key>Headers/CoinTools.h</key>
@@ -6812,14 +7275,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ux1IYpPuTSTO6Lx3svtDgEBBAObe/7MEtYQFNq9nZSQ=
+			OVlbvUx7dgp0ZW9W417szpsUS6Hj1vnv9hvp2D7OySg=
 			</data>
 		</dict>
 		<key>Headers/GTSDK_Main_NewCoinMessageViewController.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pdUmAMwKC4iQkuhlk8JwsE9uqrKZ7pXXVUtVQvod19E=
+			UGeWXHfQ7m+7jKVy1GIvTQy/QMlYAajVFsKebfKx9XQ=
 			</data>
 		</dict>
 		<key>Headers/GTSDK_Main_NewHoldCoinViewController.h</key>
@@ -6889,21 +7352,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zExWwEFt9DqXIManmvBISOgIgEPhX6hZbcEionEl6o8=
+			Ijmv5UBAyZv/pgRDYTFd037w4RR2UzyMqrdYWe9HEy0=
 			</data>
 		</dict>
 		<key>Headers/GTYxisFearIndexValueFormatter.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m8WkMLF3T+ThoIO0m28hIKTzjp73UWpuuuyOqfO/qtw=
+			t4eXhaGGyxYcXcpLQeOfayTj4vUNIWp/+ppDqpYc5Wc=
 			</data>
 		</dict>
 		<key>Headers/GateBaseViewController.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AOPRn+mqjy0Plvjy7TvnsMKG45FVRMhekYaMHK1Y12g=
+			5xEv/oNpp6mW/thEeDEsPW41iYETtk2nGl2YKkqFtVY=
 			</data>
 		</dict>
 		<key>Headers/GateHomePageController.h</key>
@@ -6973,7 +7436,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FYpzBDLOyFwPG3Y2Ryv1jJSdZQTJvT36egnuJLAFJeQ=
+			L5wAa2iQ5izj6u+gqIZNfqnRuV3v03cZohCOOazUGWM=
 			</data>
 		</dict>
 		<key>Headers/UIFont+HYDENormalFont.h</key>
@@ -7001,133 +7464,161 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AVY1472PjddtMMmf3viV28lNOLQGdr8ZS7KhI1QzaDk=
+			XMdCvk8fAf5fueX2kTedDXkNGNlaBGks5FcewYdePa8=
 			</data>
 		</dict>
 		<key>Modules/CoinTools.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sDDWY1AnCaINnP5Zhah2h0CRZL9E8nZD+w6jKIejt/g=
+			6gdF0tgIBx3Ki/CXQCJrvz0IBqByYbFhyrIubBrP+Pw=
+			</data>
+		</dict>
+		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sUZfREdZxw3av+/mbHGj35U8s+vl4Dv/wjjv/53I7V4=
+			</data>
+		</dict>
+		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jRu3p5o/F6mM+G/KF6CO8TS8vREWNS9rEspBXmU4gR4=
 			</data>
 		</dict>
 		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QZfSsbTvoXDRNmlqlOxSUkQOQ+U+rFBIRXPXRRaQrmY=
+			sJg5n1NqMM68e9xfowhdNPj7wFUzalB1XkDKkMMEbhU=
 			</data>
 		</dict>
 		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uFmSLmg+YUNED7ll+yewCm8d+vEfVv/RwFOolZFthRU=
+			jRu3p5o/F6mM+G/KF6CO8TS8vREWNS9rEspBXmU4gR4=
 			</data>
 		</dict>
 		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9FswF04ONw4wUzEiPPdwRt6SC3mLTW4N570WgBlWuyk=
+			83soLKK76HXlOhFGBXZT6l/cBVTwc4yoSF9O0TvQ+Cw=
+			</data>
+		</dict>
+		<key>Modules/CoinTools.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sUZfREdZxw3av+/mbHGj35U8s+vl4Dv/wjjv/53I7V4=
+			</data>
+		</dict>
+		<key>Modules/CoinTools.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jWMSNVoG/NBrrNnHK15YxN0HoqsNTo8FKFfFyuMwmpE=
 			</data>
 		</dict>
 		<key>Modules/CoinTools.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iYbZG6nok50xMb6hTOhfVkd6vxxMTv8XK/9sEmGV2kM=
+			69Sl3Tru4oHn/K5dBK2k7gFJqkwZ3ROTDs96WMQAuXQ=
 			</data>
 		</dict>
 		<key>Modules/CoinTools.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X/X+/x/33lj6JeiEx4yzWIumHmiyPz/Mnu1HqTB+QYA=
+			jWMSNVoG/NBrrNnHK15YxN0HoqsNTo8FKFfFyuMwmpE=
 			</data>
 		</dict>
 		<key>Modules/CoinTools.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lxpVidlm3Z7EEUI8B5TT8LzV1mYUL0S6wyiSfDu7HAU=
+			APRgSdf9/gK08ldxGFE3ga3tR0lc9oyWkGs3K6sIoKs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EuKGZG0BdfAKmPt/7pwR5m4h9HwVYyOU+G+q21PWDVQ=
+			pzWuvF05+7duy2iiV2fTAfLek/rlna5pCMESlegiJO8=
 			</data>
 		</dict>
 		<key>YCAnalyseDataCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FsiEER0/Ipt32CG6b0ENN+eJaSUsorwjkZe+vwo2t0k=
+			UVcVVWw/D8/QZPdwg7JqYvJxarpJ3G03q9cmcjvjvHw=
 			</data>
 		</dict>
 		<key>YCAnalyseDataMonadCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4Phd06VyTJ/PI3ZU9GSiHfrfiXcnLtI1TINEzD2mstg=
+			cU7qal6f5tlBtgmu8+6mYdxDqS7QWv++5CAR7F8nJFs=
 			</data>
 		</dict>
 		<key>YCAnalyseDataMonadCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g9Cw1rSiUMFHB1+AgyjgzTONjWI1tR7osSqO4RtSv94=
+			hqe+9Z1Atp94mkuSn+U18p3W39XZ3JB1KFi64JnAzys=
 			</data>
 		</dict>
 		<key>YCAnalyseDataPercentCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jSLugy71QuIJ7aFjeBl/auOuptA8xkwdwHHj6wvd6rI=
+			scBklzpOGZMvwFrW9GLe+4O8qDYypq7mSZR0RB5pykw=
 			</data>
 		</dict>
 		<key>YCAnalyseDataTimeBtnCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SPPnyJTCBerMceU/zGQcgWTrd1x6N+bH4KE9Anqjlns=
+			2VQOMQBIobxeYKgyne/uUhSbGtvkvKyWAmOPnIK8Rl8=
 			</data>
 		</dict>
 		<key>YCAnalyseDataTimeBtnCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dJYfMCxSzPpE7nSPoPnBoGXTbT9GnbH4IPBp3mWPERU=
+			U30Tf0JbJNQ9JJMwFa551zJ4Vcg/we8nJYPE8ReJrF0=
 			</data>
 		</dict>
 		<key>YCAnalyseDataTimeBtnView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dd4fLl6rjKbXJkGw/dDJ0u4OIaypbcK/pIKIkrAqCNk=
+			ndDFGdIuPJf4jTceVLWAWWL/jhmtbr3Bn/o9xq0oFjQ=
 			</data>
 		</dict>
 		<key>YCChartMarkerContentCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ns5ZYgE4Ns4UJm5Um7PQaWbyJlKPeeygeLqA9zowqwE=
+			K9iY/LHuYQpYeb3Cbdm2B5zi+150MZ3wx5VdHxNnS24=
 			</data>
 		</dict>
 		<key>YCChartMarkerContentCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uqea1EhQaUsRY96sDQvmK4q2+/SA7gPTR8pNlHhCig8=
+			S9+rdWYSoeG452DJVFHyrtcA7KOvpZJqQ1dhnOp2ThU=
 			</data>
 		</dict>
 		<key>YCChartMarkerContentView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2oZQvCrG6vurtVqS/d8xyagCUhI0ogWMfJB48QGFbxk=
+			zD1nLgBpivmaYwZV7a7cVyii4hHqEToqRJSGmbVUIYQ=
 			</data>
 		</dict>
 		<key>YCContractDataHistoryProgressView.nib</key>
@@ -7141,63 +7632,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yUEeLTFUes1YVzYgU8lFajmomMoB9bNOBCe1a/FgV+k=
+			vjZv9SUJTitXckmKdQZtBRJ+XgvwzJFmwp0NcocwSS0=
 			</data>
 		</dict>
 		<key>YCContractDataStatisticsMonthCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XHJjyllE7lN+w/MbPpYHodLjT9cgFMYq283Kl4hAeF0=
+			KynIqN2sElHoa2AxdM/QS/DsBFH7aeTiB96NXjChRUM=
 			</data>
 		</dict>
 		<key>YCContractDataStatisticsMonthCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wS2jVHl1E3ZzHQzNXF82dmmkVDkAsozw72SvZC3/nyk=
+			y5exTmPycMwy8NSfEi9ZBE05g6mb7FOJ+QQllcktHMo=
 			</data>
 		</dict>
 		<key>YCHoldCoinPercentCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TfuzzebaWjA9xsait2hJJ74+LxN8GzJr+QGnxuD+Wr4=
+			F8jN0sWj5IXH6zIggLBvI14zK+xVG0rlYqZrk24SHDw=
 			</data>
 		</dict>
 		<key>YCMainPushBigDataView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DjbOPFELB25/6mebGdJahJhBsCANICoZskN/QMS3ZOk=
+			6GfibQs1FxpwxFGMrsVg/PyvLq0SW2cxGEZbzMqqtMY=
 			</data>
 		</dict>
 		<key>YCRiseFallPageBtnCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qb9Ry5hDYFNxeWajU3AfDqciWwDIkAA8rFyKtb+9ikc=
+			zSZ0kEg3ZLonWCqOXOSZK4PsqME4GhmSyBmLfCSl4J4=
 			</data>
 		</dict>
 		<key>YCRiseFallPageBtnCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RC8VpXZ3HelCRWXu+IiVVvuzDJmqWnBCmDESCJJlD6I=
+			++qadjuI1u3axKn8sJc9zhcF4jYBeuxRNplXJD5uC7I=
 			</data>
 		</dict>
 		<key>YCRiseFallPageBtnView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WuAJhnbDt8YNr21pnZ1v6FD+O2SKorDskmnvHM1vfAE=
+			E7Zq/qxKhst3lYgqEK0virGr0lvynTPJRWu8kIWb7+I=
 			</data>
 		</dict>
 		<key>YCTableEmptyCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9dQCYz+bqgmTMU1eZR3ywId9Rep5f4BUvvHQvrLuAvs=
+			5hOQghNeTPf7sZJVKNmdw1Nqfle8YVOl7NvqOJ5fqAY=
 			</data>
 		</dict>
 		<key>YCTableTitleHeaderView.nib</key>
@@ -7211,49 +7702,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fahcLREKq3tN7ij6CzjijJtf1Rz07sP7jj5H4U+Eqqk=
+			24TZY3bGMPfnzJiGunu1eM8tAuee9h413taOIVwpBmE=
 			</data>
 		</dict>
 		<key>YCTradePairBourseCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OtpI6aL5sESg9Ic3Wf+OxZmf1YR0tHRYWgdUdRXq5jw=
+			6LBBplaBHFqdT9IbtyettfcSxryOamQnzUgnTcu4ljI=
 			</data>
 		</dict>
 		<key>YCTradePairBourseView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tSPDampm2pMxiOXheL83CrhcNuM4/htNnjEa8Tz9RrQ=
+			psMFEYL2H+ShuMU9CG/b25CCxTQ06dP26TwQZChdqwE=
 			</data>
 		</dict>
 		<key>YCTradePairCalendarCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bxwEKFSDS5hb6tkCQRvpCy9s1fug662Xg0QX1G3t0Dw=
+			ejdVWBhFySVCxvjyp5IaTk+G71+z+FZkpp1Xbu2yXrY=
 			</data>
 		</dict>
 		<key>YCTradePairCoinCell.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hq8dItlb6g7D50kyWkzGdUuRcrCbJHqnl/hxQ2ldYpM=
+			WfBFLiq3KXDF41dI5wo0ldsBWkXQ1B+1S1DTVeH5NUk=
 			</data>
 		</dict>
 		<key>YCTradePairCoinCell.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d1SNOQCFWOwhIulB5HDTpEKAHjOFfgPnGgTEFOJQBqE=
+			mqhjSO+kB/WfFMBkan4Av4gsaeLq3I3mGTFOEWun7uA=
 			</data>
 		</dict>
 		<key>YCTradePairDetailCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iF1FxcSxeyaUahUTF7YILMywlj+X+JzEMDyAcCRb988=
+			0fe5YxIx1Wx8/3NHCu9o5qbAHD0M/msD59G+UQe+cHY=
 			</data>
 		</dict>
 		<key>YCTradePairDetailFooterView.nib</key>
@@ -7274,7 +7765,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lzFYYS4aM3WqniJuZ96gCssPpJ6GboFM0DQ9APYlzv4=
+			SCfOSqTeb+bQ5JQBL+xh7bY0oNLNST7x3SkoecKkxHM=
 			</data>
 		</dict>
 		<key>ar.lproj/GTsdkLanguage.strings</key>
@@ -7358,13 +7849,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>languageData.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0iDyzG2lD4/RpcKWit/75wuRaJSGXjVLKFORhVgQOIc=
-			</data>
-		</dict>
 		<key>nl.lproj/GTsdkLanguage.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -7396,7 +7880,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vsF/mlMNPj2GlD1MFYnfFs6QrUyo6a3l12PNoguTtXU=
+			NJkCcoE/uzSymO37EvsxQ9cCsXH5tZvEL+51JWqFn0Y=
 			</data>
 			<key>optional</key>
 			<true/>

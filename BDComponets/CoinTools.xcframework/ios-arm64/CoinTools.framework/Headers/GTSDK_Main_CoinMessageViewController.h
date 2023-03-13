@@ -12,14 +12,14 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface GTSDK_Main_CoinMessageViewController : GateBaseViewController
 
-@property(nonatomic,copy)NSString* coinUrl;
+@property (nonatomic, copy) NSString *coinUrl;
 
-@property(nonatomic,assign)BOOL isPresent;
--(void)hideSuspend;
--(void)refreshPage;
--(void)clickSkipPage:(NSInteger)index;
--(void)hideSpen;
--(void)showSpen;
+@property (nonatomic, assign) BOOL isPresent;
+- (void)hideSuspend;
+- (void)refreshPage;
+- (void)clickSkipPage:(NSInteger)index;
+- (void)hideSpen;
+- (void)showSpen;
 @end
 
 NS_ASSUME_NONNULL_END

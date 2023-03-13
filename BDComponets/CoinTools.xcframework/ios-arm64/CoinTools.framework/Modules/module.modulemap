@@ -6,6 +6,6 @@ framework module CoinTools {
 }
 
 module CoinTools.Swift {
-    header "CoinTools-Swift.h"
-    requires objc
+  header "CoinTools-Swift.h"
+  requires objc
 }

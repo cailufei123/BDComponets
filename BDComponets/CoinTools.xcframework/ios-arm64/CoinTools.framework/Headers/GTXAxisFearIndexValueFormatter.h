@@ -29,7 +29,7 @@ typedef NS_ENUM(NSInteger, GTFormatterXType) {
 @import Charts;
 NS_ASSUME_NONNULL_BEGIN
 
-@interface GTXAxisFearIndexValueFormatter : NSObject<IChartAxisValueFormatter>
+@interface GTXAxisFearIndexValueFormatter : NSObject<ChartAxisValueFormatter>
 +(instancetype)getGTXAxisFearIndexValueFormatter;
 @property (nonatomic, strong)NSArray * publicArry;
 

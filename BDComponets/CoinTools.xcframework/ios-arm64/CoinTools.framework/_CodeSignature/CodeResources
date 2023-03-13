@@ -92,6 +92,14 @@
 		<data>
 		MjdwOLJSXSyR6GpkXzEd8mtMmU0=
 		</data>
+		<key>GTCoinCompareHeader.nib</key>
+		<data>
+		AJDpsdhViAiBenZTOG+ho9xDm+k=
+		</data>
+		<key>GTCoinHotMenuHeader.nib</key>
+		<data>
+		S9uBLqZLWxCHBQ5AqqtUw8gebOg=
+		</data>
 		<key>GTCoinMessageCell.nib</key>
 		<data>
 		xgYa7sGKcXJm+VGNOHB/6tR376w=
@@ -103,6 +111,26 @@
 		<key>GTCoinMessagesCell.nib</key>
 		<data>
 		kq03Sws1R846FXNzXwKwX7w9Aoo=
+		</data>
+		<key>GTCoinsCompareHotCell.nib</key>
+		<data>
+		eVyLEiVY05neJrLrYsd1mHmPBr8=
+		</data>
+		<key>GTCoinsHotCell.nib</key>
+		<data>
+		R5/GXkFJUWxaAhwU9hFgIY3Ive8=
+		</data>
+		<key>GTCoinsHotHeader.nib</key>
+		<data>
+		MscWB8C2hTGmQoRy2MBL2j0/2q4=
+		</data>
+		<key>GTCoinsQuantifyCell.nib</key>
+		<data>
+		GTAVFJoCxY0mXAGhcIi8ixRnf50=
+		</data>
+		<key>GTCoinsSelectedCell.nib</key>
+		<data>
+		6r3c3RLrP9EfrcOaUunyYDGZbqo=
 		</data>
 		<key>GTDataMonitoringTItleTableViewCell.nib</key>
 		<data>
@@ -1382,6 +1410,142 @@
 		<data>
 		nL+wme7TH/rGBhb+9h8AdjnPpF8=
 		</data>
+		<key>GateScources.bundle/hw_compare_add@2x.png</key>
+		<data>
+		GfagEwSYzAMde77tpSMOX7ZGP1k=
+		</data>
+		<key>GateScources.bundle/hw_compare_add@3x.png</key>
+		<data>
+		QGQzf+BPd+TQYq8roSAjbYjrR/s=
+		</data>
+		<key>GateScources.bundle/hw_compare_checkbox_false@2x.png</key>
+		<data>
+		rwhp5oZ7NT1k6iNzucrIX41PUYw=
+		</data>
+		<key>GateScources.bundle/hw_compare_checkbox_false@3x.png</key>
+		<data>
+		yx7zZ/udD5HumshQAuPcHpGN/qc=
+		</data>
+		<key>GateScources.bundle/hw_compare_checkbox_true@2x.png</key>
+		<data>
+		dDl1IfaLzrL0xmBW9QV3+2amjAE=
+		</data>
+		<key>GateScources.bundle/hw_compare_checkbox_true@3x.png</key>
+		<data>
+		mbj1R0nrFc3jI9VDbETb+63A/UU=
+		</data>
+		<key>GateScources.bundle/hw_compare_close@2x.png</key>
+		<data>
+		b/1aylcunVhjwsZQtR5OHgyg0MQ=
+		</data>
+		<key>GateScources.bundle/hw_compare_close@3x.png</key>
+		<data>
+		ve1eUBrZdgtpHOm0R+RZs87gxOc=
+		</data>
+		<key>GateScources.bundle/hw_compare_down@2x.png</key>
+		<data>
+		WGtzCjbgIK+GGefb4h+IA0gT+kc=
+		</data>
+		<key>GateScources.bundle/hw_compare_down@3x.png</key>
+		<data>
+		CDoKnyTYof3rrkhvch5qMFJBxf0=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot20@2x.png</key>
+		<data>
+		qjzqhY2J2iuBNeLGSoEWcOIPmiw=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot20@3x.png</key>
+		<data>
+		uto6ytZxdqntkcsf5MfapGV3Q08=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot30d@2x.png</key>
+		<data>
+		PwdzabH6vE52KnJKNt//b1HrCww=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot30d@3x.png</key>
+		<data>
+		9lT5CMOYvD0vCpfmyHxb0rSRK28=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot30down@2x.png</key>
+		<data>
+		IYrRzl9yK5UR9YURj7D+mqRY1rw=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot30down@3x.png</key>
+		<data>
+		rZRAIJuIs52LnRUhDTelBOs72m0=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot50@2x.png</key>
+		<data>
+		RFlp9960wxT7KJxIRWQtpwtA1ZI=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot50@3x.png</key>
+		<data>
+		bwUQVVLKdughk537oGE0dhR5aUY=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot@2x.png</key>
+		<data>
+		wTrBeGawI5bFDoivd9NeP766xuE=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot@3x.png</key>
+		<data>
+		ouWgxOG/Ug7l3a1NtFsGFlMupb4=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot_explain@2x.png</key>
+		<data>
+		uQWJUDiiM4ier3I7EKpqJtr3FDo=
+		</data>
+		<key>GateScources.bundle/hw_compare_hot_explain@3x.png</key>
+		<data>
+		pzRlAkczROq0sb3GS8AYfS/FAN0=
+		</data>
+		<key>GateScources.bundle/hw_compare_more@2x.png</key>
+		<data>
+		pFnc0iE5oCKxMBEoDcQvvDNmS2o=
+		</data>
+		<key>GateScources.bundle/hw_compare_more@3x.png</key>
+		<data>
+		Sow5X3d1aTtLHKeQnT24Ao0ve8g=
+		</data>
+		<key>GateScources.bundle/hw_compare_pk@2x.png</key>
+		<data>
+		EMJS4cA8YCrs/hl1kf5qpCLkSK0=
+		</data>
+		<key>GateScources.bundle/hw_compare_pk@3x.png</key>
+		<data>
+		jRKqAVB3vR4hK65i7cVr7ynTZN4=
+		</data>
+		<key>GateScources.bundle/hw_compare_rotate@2x.png</key>
+		<data>
+		B8EIPAweRnJ4zuRYSBwPPrWdGXA=
+		</data>
+		<key>GateScources.bundle/hw_compare_rotate@3x.png</key>
+		<data>
+		Qakr57pGcCXrbcYJ9+0asWa9/fE=
+		</data>
+		<key>GateScources.bundle/hw_compare_top_nor@2x.png</key>
+		<data>
+		195OesaSW5XyWRnVMYddpf66R/U=
+		</data>
+		<key>GateScources.bundle/hw_compare_top_nor@3x.png</key>
+		<data>
+		ZH+5pFRr8CxYbcOE5kIzW4ZJzHQ=
+		</data>
+		<key>GateScources.bundle/hw_compare_top_sel@2x.png</key>
+		<data>
+		XokHxlDCJHdXkfbkEyWNHun9eZ0=
+		</data>
+		<key>GateScources.bundle/hw_compare_top_sel@3x.png</key>
+		<data>
+		MLspJHn22KwurKN8VNvDvStdP84=
+		</data>
+		<key>GateScources.bundle/hw_compare_up@2x.png</key>
+		<data>
+		ho7cPuY068JyKtGYCm+MK7F4TpI=
+		</data>
+		<key>GateScources.bundle/hw_compare_up@3x.png</key>
+		<data>
+		mL0VSPlp9b5EMbF4RMmP/+DWQsY=
+		</data>
 		<key>GateScources.bundle/ic_close_24x24_@3x.png</key>
 		<data>
 		Z9/RXrHS3VLdw/F+SiNcLpd6l/w=
@@ -2248,7 +2412,7 @@
 		</data>
 		<key>Headers/CoinTools-Swift.h</key>
 		<data>
-		YlwuASKNmyUVj4gy6bVdjWR6ESM=
+		2qY1W6mF7jHBrgz6m2Y3qmgAZHs=
 		</data>
 		<key>Headers/CoinTools.h</key>
 		<data>
@@ -2320,11 +2484,11 @@
 		</data>
 		<key>Headers/GTSDK_Main_CoinMessageViewController.h</key>
 		<data>
-		XdycdjmP6Bj3sJk7otkAj84QHhc=
+		5GDUoc5A42pxkIdR+45M5R5XU7A=
 		</data>
 		<key>Headers/GTSDK_Main_NewCoinMessageViewController.h</key>
 		<data>
-		89qaV8/YXiLQUKSkejU/VT3QQEE=
+		SFtm4QHJBky8F8T3virayGcfZDw=
 		</data>
 		<key>Headers/GTSDK_Main_NewHoldCoinViewController.h</key>
 		<data>
@@ -2372,7 +2536,7 @@
 		</data>
 		<key>Headers/GateBaseViewController.h</key>
 		<data>
-		UjemVNHODw0GHGtO670Wkgmc9fo=
+		jRAl0nROPQ9osJRB5CfzCy7CuOk=
 		</data>
 		<key>Headers/GateHomePageController.h</key>
 		<data>
@@ -2412,7 +2576,7 @@
 		</data>
 		<key>Headers/UIFont+FontName.h</key>
 		<data>
-		7KzOiO84zrD/mBak/Vng8LOLQdI=
+		cI550NgzoOJ9XewiiLLYSnt3dmI=
 		</data>
 		<key>Headers/UIFont+HYDENormalFont.h</key>
 		<data>
@@ -2432,7 +2596,7 @@
 		</data>
 		<key>Modules/CoinTools.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		VDBAeUAq0mUgJXyKJmX1j5AdFTw=
+		KDsWDUy721D9sBNell4rODQEWYc=
 		</data>
 		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -2440,11 +2604,11 @@
 		</data>
 		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		w80fvKTRTz1fd9MQbJwfixfaLhc=
+		5B5kNNdclrOboPJEcAqCibPvjgE=
 		</data>
 		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Z96JQITfsJ7e3y4voRTRbYmMe0U=
+		4byZ7fW47pazszdIMQZPVQmx19M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -2655,10 +2819,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>languageData.json</key>
-		<data>
-		Z6z16EPDF/ajOVdyJP+h6xETZkM=
-		</data>
 		<key>nl.lproj/GTsdkLanguage.strings</key>
 		<dict>
 			<key>hash</key>
@@ -2690,7 +2850,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			naQloU+wHXy+n8huR/bOYdBYilI=
+			GmhC4c9tyIOEPlPG+JcCfqq/NdM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2910,6 +3070,20 @@
 			Budx6OKXdy0L3iwPJUuolMB/8VbSv7eHgzfpqOAGVhw=
 			</data>
 		</dict>
+		<key>GTCoinCompareHeader.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xF3wlZrCICwkmXFpQD3kkk3AtWDPIocRyDuUpCAd0bU=
+			</data>
+		</dict>
+		<key>GTCoinHotMenuHeader.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s5XWE+xvkhJLe6FbAHAQbr2VDK6XRy+p5RJYU0W7dnY=
+			</data>
+		</dict>
 		<key>GTCoinMessageCell.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -2929,6 +3103,41 @@
 			<key>hash2</key>
 			<data>
 			I2ZqB3MgJEJcAAaHPB/My9zLJA/Iol7XW7/cINDt69E=
+			</data>
+		</dict>
+		<key>GTCoinsCompareHotCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/K0NlfwzNQPZ39taTc4iuprNHn79+A/vVnL8Hez5Tcc=
+			</data>
+		</dict>
+		<key>GTCoinsHotCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			voneLFl+aHgkhknRC8jCJCA849YTXodHh5U3fPD698U=
+			</data>
+		</dict>
+		<key>GTCoinsHotHeader.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/1E/9cwe5Nj+tGqFim1OqUzZ907orwkiI2DYPs7TMFI=
+			</data>
+		</dict>
+		<key>GTCoinsQuantifyCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ucpepx6R0AvRVlGZ8m7iTELEWIRGs545KlVkG4QPL/8=
+			</data>
+		</dict>
+		<key>GTCoinsSelectedCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1ieMeBNhYVnkUP39MWCD5tvI2MIV5kyjhFdOKjhManU=
 			</data>
 		</dict>
 		<key>GTDataMonitoringTItleTableViewCell.nib</key>
@@ -5154,6 +5363,244 @@
 			bJLwmmKYwDokJJxRWabIBcjdODG7Bb03kxmtGw1RkwI=
 			</data>
 		</dict>
+		<key>GateScources.bundle/hw_compare_add@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oYmzRiktds9/Q14/xL7EjUe5exGFfTY6qMY37dgeQvQ=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_add@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J24dKy2BBms6Bu18Pe+x7JneGa+ERz2Z+/9NSCX9C4M=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_checkbox_false@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RmWWVjAfacbofFN74sNSAvmVlAxGLNu33kNOf+uiOAI=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_checkbox_false@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qEgaOAsFv02aezZoDtXxCmFYCcNV2byEPU0PxsQgb00=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_checkbox_true@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qdCeuh9y56YFvspa61/EgN3v0DsPPxoU/dp0f8S8zdM=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_checkbox_true@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ayTP7eVoNKiYm+5RCYWHEZ5bL3LOQbe0gERJzmE0Qeg=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_close@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wR+k9kNTOSlTtDWCTU/Eorg5Qt5LY0IizAsyYX7XmJk=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_close@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RtRnWldCJe5WheCxdpOpc/Rb+t4Cr5XXXSlqxs4Xea0=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_down@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lo4fz6x06uMigZkUw5DOgBiya0t0OT1PeXBSf0Of9jg=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_down@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d8KVtUenEX53OC4cOjYtzuaMNUk3xRuQN3xa0V84wVI=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot20@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x5YX/4MCjlLogmzm841r1JqX/JlfQv3SPOZT/9S1uhM=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot20@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JzwBBH9YoWr8pmv4gTzkou4dNJNA+T++iOrEN6tG1GA=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot30d@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fK+K/nOJxMGdlee7G/H0i5ZLqZitQS/E8KDMzW/n/ww=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot30d@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9mBxLd8geQPBfK+IGXIlqESFkN1yGcdiPe2V3c3Npf8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot30down@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lkUT4RoaxG+lgSLOcF7JCwH0hHPX3sJ9H5Im+nQ+T50=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot30down@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			27ktYPxcolvhYtFmzXBBV6NGtcjejcJUaNjD+CdY2WE=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot50@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rw0MsR2TUwXfVqga/HNt81Ce5Iz0VqItURgBYMeL8gM=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot50@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u36Jrs6iDbzTYFMJijkKOxiR6jIqFo+hSy7vq8AIAoU=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5BRYgpeH92lN0GblSX+jOgJP7lXBLplN1XdZ6puyUO8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OAQer8TsG1N5TYHf5j5B8atTGgqu8Qgb0HfMWj/vVyU=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot_explain@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XRXMQ6kiSPDks9ymCgR1fqkx0T1u9/F00y8ORaGeMn8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_hot_explain@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z4EIsncZqgERalcKn06staYszMNcyNZAPdPwRbekCnQ=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_more@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+D3heCIe5avOiIsXzLBV+mP7WKcKg2ztN3DANJtAgz8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_more@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			adpxYpodnsOskHWuD/40KNA2XkgsmJ6oAlJPyDXye8Y=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_pk@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8C8eDSAgYV6qLsomKJ9MOi1140jxBdpgOo5CvYrTAqk=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_pk@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vd3roYGUoAruUtiDFi1fJy/E9Nd3XfdUgjWuMJKagZA=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_rotate@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hqEbitAAn4b7MQIzlZrVaZ1a5SqM08nKH7C1zJfYZa8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_rotate@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Sit1I9uw06LRSpACFKSWTwOU1usrXoLmt80U+HBBu3k=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_top_nor@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZfFQMPLps6z+FMJojjvnBEPcW/Mp9LFhRpPW1mc0lEw=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_top_nor@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hvuQaYRiaL3XYIwjPR8PlLdoi0waVa48PJvYoVud/U8=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_top_sel@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/BEtkPPJs+P81rE8NyGQ61o4cqiCrLaZ7tYI7xIDr50=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_top_sel@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1JgCp1ypbav3GHi1yG6NsAR5ut0gG6QzbCPwz9FEr/Y=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_up@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xeATq5XNk2yFTVddUlUPffrhRhwfZKICMOhZRdrOGKc=
+			</data>
+		</dict>
+		<key>GateScources.bundle/hw_compare_up@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			scqOQWZ1j7kkX7nPECn61AG3q4cy3PsoeN90pFIPfDE=
+			</data>
+		</dict>
 		<key>GateScources.bundle/ic_close_24x24_@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -6670,7 +7117,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vf2AWbPBCZNrpp22lRG6uBRVZnMesMI4mHcaDcXw1U4=
+			c7kCurQ4O74CFzERCNiekxc0rGi1JlkmQAY3sINsUmM=
 			</data>
 		</dict>
 		<key>Headers/CoinTools.h</key>
@@ -6796,14 +7243,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ux1IYpPuTSTO6Lx3svtDgEBBAObe/7MEtYQFNq9nZSQ=
+			OVlbvUx7dgp0ZW9W417szpsUS6Hj1vnv9hvp2D7OySg=
 			</data>
 		</dict>
 		<key>Headers/GTSDK_Main_NewCoinMessageViewController.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pdUmAMwKC4iQkuhlk8JwsE9uqrKZ7pXXVUtVQvod19E=
+			UGeWXHfQ7m+7jKVy1GIvTQy/QMlYAajVFsKebfKx9XQ=
 			</data>
 		</dict>
 		<key>Headers/GTSDK_Main_NewHoldCoinViewController.h</key>
@@ -6887,7 +7334,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AOPRn+mqjy0Plvjy7TvnsMKG45FVRMhekYaMHK1Y12g=
+			5xEv/oNpp6mW/thEeDEsPW41iYETtk2nGl2YKkqFtVY=
 			</data>
 		</dict>
 		<key>Headers/GateHomePageController.h</key>
@@ -6957,7 +7404,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FYpzBDLOyFwPG3Y2Ryv1jJSdZQTJvT36egnuJLAFJeQ=
+			L5wAa2iQ5izj6u+gqIZNfqnRuV3v03cZohCOOazUGWM=
 			</data>
 		</dict>
 		<key>Headers/UIFont+HYDENormalFont.h</key>
@@ -6985,7 +7432,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KbN8XGz9A0wqKQ76jetLp9sa8uanl0AcNO4OQAHaypQ=
+			BvOCoNJxDGMwwRoJMggjoC5Rbvrk7TMHmFYqa7cFdUw=
 			</data>
 		</dict>
 		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -6999,14 +7446,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yXQ5imhWBLvYtW4OyGuefP6/K2PIoMSYB7JfPswkSSA=
+			DgdZ1MLQsUAQ41/Cs0GIiDCvwsL57sUJgZ43fx4qtXY=
 			</data>
 		</dict>
 		<key>Modules/CoinTools.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gCf3QfqiNSsiKiWH7jgy5d0Pmb8V3a3j/peOiEI1pYk=
+			ww/ntTJUozZDkll++Y6a3ZhAOnPoeVMVYF4c7/Z6VVc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -7314,13 +7761,6 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>languageData.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0iDyzG2lD4/RpcKWit/75wuRaJSGXjVLKFORhVgQOIc=
-			</data>
-		</dict>
 		<key>nl.lproj/GTsdkLanguage.strings</key>
 		<dict>
 			<key>hash2</key>
@@ -7352,7 +7792,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vsF/mlMNPj2GlD1MFYnfFs6QrUyo6a3l12PNoguTtXU=
+			NJkCcoE/uzSymO37EvsxQ9cCsXH5tZvEL+51JWqFn0Y=
 			</data>
 			<key>optional</key>
 			<true/>
